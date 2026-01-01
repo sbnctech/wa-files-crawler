@@ -1,0 +1,21 @@
+{
+  "name": "wa-files-crawler",
+  "version": "1.0.0",
+  "description": "Discover and catalog files in Wild Apricot's /resources/ directory",
+  "main": "wa-files-crawler.ts",
+  "scripts": {
+    "crawl": "npx tsx wa-files-crawler.ts"
+  },
+  "keywords": [
+    "wild-apricot",
+    "crawler",
+    "file-discovery",
+    "migration"
+  ],
+  "author": "sbnctech",
+  "license": "MIT",
+  "devDependencies": {
+    "tsx": "^4.7.0",
+    "typescript": "^5.3.0"
+  }
+}

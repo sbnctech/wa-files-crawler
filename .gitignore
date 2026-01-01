@@ -1,0 +1,13 @@
+# Dependencies
+node_modules/
+
+# Output
+wa-files-report-*.json
+downloads/
+
+# Credentials
+cookies.txt
+*.cookies
+
+# OS
+.DS_Store
