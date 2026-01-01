@@ -1,0 +1,1736 @@
+{
+  "site": "sbnewcomers.org",
+  "crawledAt": "2026-01-01T22:59:20.709Z",
+  "duration": 288,
+  "authenticated": true,
+  "cookiesFile": "cookies.txt",
+  "folders": {
+    "known": [
+      {
+        "path": "Documents",
+        "url": "https://sbnewcomers.org/resources/Documents",
+        "discoveredFrom": "known",
+        "accessible": false,
+        "fileCount": 0
+      },
+      {
+        "path": "Documents/Board Agendas and Minutes",
+        "url": "https://sbnewcomers.org/resources/Documents/Board Agendas and Minutes",
+        "discoveredFrom": "known",
+        "accessible": false,
+        "fileCount": 0
+      },
+      {
+        "path": "Documents/Board Agendas and Minutes/2023 Agendas",
+        "url": "https://sbnewcomers.org/resources/Documents/Board Agendas and Minutes/2023 Agendas",
+        "discoveredFrom": "known",
+        "accessible": false,
+        "fileCount": 0
+      },
+      {
+        "path": "Documents/Board Agendas and Minutes/2024 Agendas",
+        "url": "https://sbnewcomers.org/resources/Documents/Board Agendas and Minutes/2024 Agendas",
+        "discoveredFrom": "known",
+        "accessible": false,
+        "fileCount": 0
+      },
+      {
+        "path": "Documents/Board Agendas and Minutes/2024 Minutes",
+        "url": "https://sbnewcomers.org/resources/Documents/Board Agendas and Minutes/2024 Minutes",
+        "discoveredFrom": "known",
+        "accessible": false,
+        "fileCount": 0
+      },
+      {
+        "path": "Documents/Board Agendas and Minutes/2025 Minutes",
+        "url": "https://sbnewcomers.org/resources/Documents/Board Agendas and Minutes/2025 Minutes",
+        "discoveredFrom": "known",
+        "accessible": false,
+        "fileCount": 0
+      },
+      {
+        "path": "Documents/Board Agendas and Minutes/Agenda Archives",
+        "url": "https://sbnewcomers.org/resources/Documents/Board Agendas and Minutes/Agenda Archives",
+        "discoveredFrom": "known",
+        "accessible": false,
+        "fileCount": 0
+      },
+      {
+        "path": "Documents/Board Agendas and Minutes/Minutes Archives",
+        "url": "https://sbnewcomers.org/resources/Documents/Board Agendas and Minutes/Minutes Archives",
+        "discoveredFrom": "known",
+        "accessible": false,
+        "fileCount": 0
+      },
+      {
+        "path": "Documents/Club History",
+        "url": "https://sbnewcomers.org/resources/Documents/Club History",
+        "discoveredFrom": "known",
+        "accessible": false,
+        "fileCount": 0
+      },
+      {
+        "path": "Documents/Committee Information",
+        "url": "https://sbnewcomers.org/resources/Documents/Committee Information",
+        "discoveredFrom": "known",
+        "accessible": false,
+        "fileCount": 0
+      },
+      {
+        "path": "Documents/Directories",
+        "url": "https://sbnewcomers.org/resources/Documents/Directories",
+        "discoveredFrom": "known",
+        "accessible": false,
+        "fileCount": 0
+      },
+      {
+        "path": "Documents/eNews",
+        "url": "https://sbnewcomers.org/resources/Documents/eNews",
+        "discoveredFrom": "known",
+        "accessible": false,
+        "fileCount": 0
+      },
+      {
+        "path": "Documents/Equipment and Tools",
+        "url": "https://sbnewcomers.org/resources/Documents/Equipment and Tools",
+        "discoveredFrom": "known",
+        "accessible": false,
+        "fileCount": 0
+      },
+      {
+        "path": "Documents/Financials",
+        "url": "https://sbnewcomers.org/resources/Documents/Financials",
+        "discoveredFrom": "known",
+        "accessible": false,
+        "fileCount": 0
+      },
+      {
+        "path": "Documents/Governing Documents",
+        "url": "https://sbnewcomers.org/resources/Documents/Governing Documents",
+        "discoveredFrom": "known",
+        "accessible": false,
+        "fileCount": 0
+      },
+      {
+        "path": "Documents/Inventory",
+        "url": "https://sbnewcomers.org/resources/Documents/Inventory",
+        "discoveredFrom": "known",
+        "accessible": false,
+        "fileCount": 0
+      },
+      {
+        "path": "Documents/Job Descriptions",
+        "url": "https://sbnewcomers.org/resources/Documents/Job Descriptions",
+        "discoveredFrom": "known",
+        "accessible": false,
+        "fileCount": 0
+      },
+      {
+        "path": "Documents/Member Information",
+        "url": "https://sbnewcomers.org/resources/Documents/Member Information",
+        "discoveredFrom": "known",
+        "accessible": false,
+        "fileCount": 0
+      },
+      {
+        "path": "Documents/President's Party Contracts",
+        "url": "https://sbnewcomers.org/resources/Documents/President's Party Contracts",
+        "discoveredFrom": "known",
+        "accessible": false,
+        "fileCount": 0
+      },
+      {
+        "path": "Documents/Terms and Conditions",
+        "url": "https://sbnewcomers.org/resources/Documents/Terms and Conditions",
+        "discoveredFrom": "known",
+        "accessible": false,
+        "fileCount": 0
+      },
+      {
+        "path": "Documents/Training Guides",
+        "url": "https://sbnewcomers.org/resources/Documents/Training Guides",
+        "discoveredFrom": "known",
+        "accessible": false,
+        "fileCount": 0
+      },
+      {
+        "path": "Documents/Webmaster_Resources",
+        "url": "https://sbnewcomers.org/resources/Documents/Webmaster_Resources",
+        "discoveredFrom": "known",
+        "accessible": false,
+        "fileCount": 0
+      },
+      {
+        "path": "EmailTemplates",
+        "url": "https://sbnewcomers.org/resources/EmailTemplates",
+        "discoveredFrom": "known",
+        "accessible": false,
+        "fileCount": 0
+      },
+      {
+        "path": "Misfiled",
+        "url": "https://sbnewcomers.org/resources/Misfiled",
+        "discoveredFrom": "known",
+        "accessible": false,
+        "fileCount": 0
+      },
+      {
+        "path": "Pictures",
+        "url": "https://sbnewcomers.org/resources/Pictures",
+        "discoveredFrom": "known",
+        "accessible": false,
+        "fileCount": 0
+      },
+      {
+        "path": "Site",
+        "url": "https://sbnewcomers.org/resources/Site",
+        "discoveredFrom": "known",
+        "accessible": false,
+        "fileCount": 0
+      },
+      {
+        "path": "SiteAlbums",
+        "url": "https://sbnewcomers.org/resources/SiteAlbums",
+        "discoveredFrom": "known",
+        "accessible": false,
+        "fileCount": 0
+      },
+      {
+        "path": "stylesheets",
+        "url": "https://sbnewcomers.org/resources/stylesheets",
+        "discoveredFrom": "known",
+        "accessible": false,
+        "fileCount": 0
+      },
+      {
+        "path": "Theme",
+        "url": "https://sbnewcomers.org/resources/Theme",
+        "discoveredFrom": "known",
+        "accessible": false,
+        "fileCount": 0
+      },
+      {
+        "path": "Theme_Overrides",
+        "url": "https://sbnewcomers.org/resources/Theme_Overrides",
+        "discoveredFrom": "known",
+        "accessible": false,
+        "fileCount": 0
+      },
+      {
+        "path": "Web_page_Images_and_Pictures",
+        "url": "https://sbnewcomers.org/resources/Web_page_Images_and_Pictures",
+        "discoveredFrom": "known",
+        "accessible": false,
+        "fileCount": 0
+      }
+    ],
+    "discovered": [
+      {
+        "path": "theme",
+        "url": "https://sbnewcomers.org/resources/theme",
+        "discoveredFrom": "page-crawl",
+        "accessible": true,
+        "fileCount": 1
+      },
+      {
+        "path": "Documents/Financials/2024%20Financials",
+        "url": "https://sbnewcomers.org/resources/Documents/Financials/2024%20Financials",
+        "discoveredFrom": "page-crawl",
+        "accessible": true,
+        "fileCount": 29
+      },
+      {
+        "path": "Pictures/Committee%20Photos/XCommittee%20Webpage%20Slideshow",
+        "url": "https://sbnewcomers.org/resources/Pictures/Committee%20Photos/XCommittee%20Webpage%20Slideshow",
+        "discoveredFrom": "page-crawl",
+        "accessible": true,
+        "fileCount": 33
+      },
+      {
+        "path": "Pictures/ZZZ-Site%20page%20Images%20and%20Pictures/Home/Activities%20Photos",
+        "url": "https://sbnewcomers.org/resources/Pictures/ZZZ-Site%20page%20Images%20and%20Pictures/Home/Activities%20Photos",
+        "discoveredFrom": "page-crawl",
+        "accessible": true,
+        "fileCount": 24
+      },
+      {
+        "path": "Pictures/WA%20App%20Pics",
+        "url": "https://sbnewcomers.org/resources/Pictures/WA%20App%20Pics",
+        "discoveredFrom": "page-crawl",
+        "accessible": true,
+        "fileCount": 1
+      },
+      {
+        "path": "Documents/Member%20Information",
+        "url": "https://sbnewcomers.org/resources/Documents/Member%20Information",
+        "discoveredFrom": "page-crawl",
+        "accessible": true,
+        "fileCount": 12
+      },
+      {
+        "path": "Documents/Governing%20Documents",
+        "url": "https://sbnewcomers.org/resources/Documents/Governing%20Documents",
+        "discoveredFrom": "page-crawl",
+        "accessible": true,
+        "fileCount": 9
+      },
+      {
+        "path": "Documents/Member%20Information/Forms",
+        "url": "https://sbnewcomers.org/resources/Documents/Member%20Information/Forms",
+        "discoveredFrom": "page-crawl",
+        "accessible": true,
+        "fileCount": 2
+      },
+      {
+        "path": "Documents/Training%20Guides/Event%20Guides",
+        "url": "https://sbnewcomers.org/resources/Documents/Training%20Guides/Event%20Guides",
+        "discoveredFrom": "page-crawl",
+        "accessible": true,
+        "fileCount": 1
+      },
+      {
+        "path": "Documents/Job%20Descriptions",
+        "url": "https://sbnewcomers.org/resources/Documents/Job%20Descriptions",
+        "discoveredFrom": "page-crawl",
+        "accessible": true,
+        "fileCount": 13
+      },
+      {
+        "path": "Documents/Training%20Guides",
+        "url": "https://sbnewcomers.org/resources/Documents/Training%20Guides",
+        "discoveredFrom": "page-crawl",
+        "accessible": true,
+        "fileCount": 2
+      }
+    ],
+    "probed": []
+  },
+  "files": [
+    {
+      "url": "https://sbnewcomers.org/resources/theme/user.css",
+      "path": "/resources/theme/user.css",
+      "name": "user.css",
+      "extension": ".css",
+      "size": 23998,
+      "lastModified": "Wed, 18 Sep 2024 10:53:03 GMT",
+      "contentType": "text/css",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Documents/Financials/2024%20Financials/SBNC%20Spring%202024%20Approved%20Budget.pdf",
+      "path": "/resources/Documents/Financials/2024%20Financials/SBNC%20Spring%202024%20Approved%20Budget.pdf",
+      "name": "SBNC Spring 2024 Approved Budget.pdf",
+      "extension": ".pdf",
+      "size": 19064,
+      "lastModified": "Mon, 27 May 2024 16:24:33 GMT",
+      "contentType": "application/pdf",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Documents/Financials/2024%20Financials/SBNC%20January%202024%20Financial%20Reports.pdf",
+      "path": "/resources/Documents/Financials/2024%20Financials/SBNC%20January%202024%20Financial%20Reports.pdf",
+      "name": "SBNC January 2024 Financial Reports.pdf",
+      "extension": ".pdf",
+      "size": 138176,
+      "lastModified": "Mon, 27 May 2024 16:23:38 GMT",
+      "contentType": "application/pdf",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Documents/Financials/2024%20Financials/January%20Treasury%20Report%20240220%20(1).pdf",
+      "path": "/resources/Documents/Financials/2024%20Financials/January%20Treasury%20Report%20240220%20(1).pdf",
+      "name": "January Treasury Report 240220 (1).pdf",
+      "extension": ".pdf",
+      "size": 36026,
+      "lastModified": "Mon, 27 May 2024 16:22:58 GMT",
+      "contentType": "application/pdf",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Documents/Financials/2024%20Financials/February%20Treasury%20Report%20240318%20.pdf",
+      "path": "/resources/Documents/Financials/2024%20Financials/February%20Treasury%20Report%20240318%20.pdf",
+      "name": "February Treasury Report 240318 .pdf",
+      "extension": ".pdf",
+      "size": 31480,
+      "lastModified": "Mon, 27 May 2024 16:23:46 GMT",
+      "contentType": "application/pdf",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Documents/Financials/2024%20Financials/SBNC%20March%202024%20Financial%20Reports.pdf",
+      "path": "/resources/Documents/Financials/2024%20Financials/SBNC%20March%202024%20Financial%20Reports.pdf",
+      "name": "SBNC March 2024 Financial Reports.pdf",
+      "extension": ".pdf",
+      "size": 131369,
+      "lastModified": "Mon, 27 May 2024 16:24:42 GMT",
+      "contentType": "application/pdf",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Documents/Financials/2024%20Financials/March%20Treasury%20Report%20240415.pdf",
+      "path": "/resources/Documents/Financials/2024%20Financials/March%20Treasury%20Report%20240415.pdf",
+      "name": "March Treasury Report 240415.pdf",
+      "extension": ".pdf",
+      "size": 93433,
+      "lastModified": "Mon, 27 May 2024 16:24:48 GMT",
+      "contentType": "application/pdf",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Documents/Financials/2024%20Financials/SBNC%20April%202024%20Financial%20Reports.pdf",
+      "path": "/resources/Documents/Financials/2024%20Financials/SBNC%20April%202024%20Financial%20Reports.pdf",
+      "name": "SBNC April 2024 Financial Reports.pdf",
+      "extension": ".pdf",
+      "size": 130867,
+      "lastModified": "Mon, 27 May 2024 16:24:36 GMT",
+      "contentType": "application/pdf",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Documents/Financials/2024%20Financials/April%20Treasury%20Report%20240520%20(1).pdf",
+      "path": "/resources/Documents/Financials/2024%20Financials/April%20Treasury%20Report%20240520%20(1).pdf",
+      "name": "April Treasury Report 240520 (1).pdf",
+      "extension": ".pdf",
+      "size": 47415,
+      "lastModified": "Mon, 27 May 2024 16:26:44 GMT",
+      "contentType": "application/pdf",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Documents/Financials/2024%20Financials/SBNC%20May%202024%20Financial%20Reports.pdf",
+      "path": "/resources/Documents/Financials/2024%20Financials/SBNC%20May%202024%20Financial%20Reports.pdf",
+      "name": "SBNC May 2024 Financial Reports.pdf",
+      "extension": ".pdf",
+      "size": 134353,
+      "lastModified": "Wed, 26 Jun 2024 15:46:07 GMT",
+      "contentType": "application/pdf",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Documents/Financials/2024%20Financials/May%20Treasury%20Report%20240617.pdf",
+      "path": "/resources/Documents/Financials/2024%20Financials/May%20Treasury%20Report%20240617.pdf",
+      "name": "May Treasury Report 240617.pdf",
+      "extension": ".pdf",
+      "size": 47580,
+      "lastModified": "Wed, 26 Jun 2024 15:47:39 GMT",
+      "contentType": "application/pdf",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Documents/Financials/2024%20Financials/SBNC%20June%202024%20Financial%20Reports.pdf",
+      "path": "/resources/Documents/Financials/2024%20Financials/SBNC%20June%202024%20Financial%20Reports.pdf",
+      "name": "SBNC June 2024 Financial Reports.pdf",
+      "extension": ".pdf",
+      "size": 135964,
+      "lastModified": "Wed, 20 Nov 2024 11:22:07 GMT",
+      "contentType": "application/pdf",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Documents/Financials/2024%20Financials/June%20Treasury%20Report%20240715.pdf",
+      "path": "/resources/Documents/Financials/2024%20Financials/June%20Treasury%20Report%20240715.pdf",
+      "name": "June Treasury Report 240715.pdf",
+      "extension": ".pdf",
+      "size": 48378,
+      "lastModified": "Wed, 20 Nov 2024 11:22:37 GMT",
+      "contentType": "application/pdf",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Documents/Financials/2024%20Financials/June%20Treasury%20Slide%20240715.pdf",
+      "path": "/resources/Documents/Financials/2024%20Financials/June%20Treasury%20Slide%20240715.pdf",
+      "name": "June Treasury Slide 240715.pdf",
+      "extension": ".pdf",
+      "size": 115335,
+      "lastModified": "Wed, 20 Nov 2024 11:22:31 GMT",
+      "contentType": "application/pdf",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Documents/Financials/2024%20Financials/SBNC%20July%202024%20Financial%20Reports.pdf",
+      "path": "/resources/Documents/Financials/2024%20Financials/SBNC%20July%202024%20Financial%20Reports.pdf",
+      "name": "SBNC July 2024 Financial Reports.pdf",
+      "extension": ".pdf",
+      "size": 148244,
+      "lastModified": "Mon, 12 Aug 2024 11:23:56 GMT",
+      "contentType": "application/pdf",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Documents/Financials/2024%20Financials/July%20Treasury%20Report%20240812.pdf",
+      "path": "/resources/Documents/Financials/2024%20Financials/July%20Treasury%20Report%20240812.pdf",
+      "name": "July Treasury Report 240812.pdf",
+      "extension": ".pdf",
+      "size": 68749,
+      "lastModified": "Mon, 12 Aug 2024 11:22:12 GMT",
+      "contentType": "application/pdf",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Documents/Financials/2024%20Financials/July%20Treasury%20Report%20Slide%20230812.pdf",
+      "path": "/resources/Documents/Financials/2024%20Financials/July%20Treasury%20Report%20Slide%20230812.pdf",
+      "name": "July Treasury Report Slide 230812.pdf",
+      "extension": ".pdf",
+      "size": 114758,
+      "lastModified": "Mon, 12 Aug 2024 11:22:30 GMT",
+      "contentType": "application/pdf",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Documents/Financials/2024%20Financials/August%20Treasury%20Report%20240916.pdf",
+      "path": "/resources/Documents/Financials/2024%20Financials/August%20Treasury%20Report%20240916.pdf",
+      "name": "August Treasury Report 240916.pdf",
+      "extension": ".pdf",
+      "size": 55347,
+      "lastModified": "Fri, 06 Sep 2024 18:20:13 GMT",
+      "contentType": "application/pdf",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Documents/Financials/2024%20Financials/August%20Treasury%20Report%20Slide%20240916.pdf",
+      "path": "/resources/Documents/Financials/2024%20Financials/August%20Treasury%20Report%20Slide%20240916.pdf",
+      "name": "August Treasury Report Slide 240916.pdf",
+      "extension": ".pdf",
+      "size": 54653,
+      "lastModified": "Fri, 06 Sep 2024 18:20:00 GMT",
+      "contentType": "application/pdf",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Documents/Financials/2024%20Financials/September%20Treasury%20Report%20241021.pdf",
+      "path": "/resources/Documents/Financials/2024%20Financials/September%20Treasury%20Report%20241021.pdf",
+      "name": "September Treasury Report 241021.pdf",
+      "extension": ".pdf",
+      "size": 62289,
+      "lastModified": "Fri, 11 Oct 2024 11:22:58 GMT",
+      "contentType": "application/pdf",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Documents/Financials/2024%20Financials/Sept%20Treasury%20Report%20Slide%20241021.pdf",
+      "path": "/resources/Documents/Financials/2024%20Financials/Sept%20Treasury%20Report%20Slide%20241021.pdf",
+      "name": "Sept Treasury Report Slide 241021.pdf",
+      "extension": ".pdf",
+      "size": 114542,
+      "lastModified": "Fri, 11 Oct 2024 11:22:58 GMT",
+      "contentType": "application/pdf",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Documents/Financials/2024%20Financials/Treasury%20Report%202024%20Review%20241021.pdf",
+      "path": "/resources/Documents/Financials/2024%20Financials/Treasury%20Report%202024%20Review%20241021.pdf",
+      "name": "Treasury Report 2024 Review 241021.pdf",
+      "extension": ".pdf",
+      "size": 118172,
+      "lastModified": "Fri, 11 Oct 2024 11:22:58 GMT",
+      "contentType": "application/pdf",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Documents/Financials/2024%20Financials/SBNC%20October%202024%20Financial%20Reports.pdf",
+      "path": "/resources/Documents/Financials/2024%20Financials/SBNC%20October%202024%20Financial%20Reports.pdf",
+      "name": "SBNC October 2024 Financial Reports.pdf",
+      "extension": ".pdf",
+      "size": 136330,
+      "lastModified": "Mon, 11 Nov 2024 17:07:27 GMT",
+      "contentType": "application/pdf",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Documents/Financials/2024%20Financials/October%20Treasury%20Report%20241118.pdf",
+      "path": "/resources/Documents/Financials/2024%20Financials/October%20Treasury%20Report%20241118.pdf",
+      "name": "October Treasury Report 241118.pdf",
+      "extension": ".pdf",
+      "size": 52848,
+      "lastModified": "Mon, 11 Nov 2024 17:07:27 GMT",
+      "contentType": "application/pdf",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Documents/Financials/2024%20Financials/October%20Treasury%20Report%20Slide%20241118.pdf",
+      "path": "/resources/Documents/Financials/2024%20Financials/October%20Treasury%20Report%20Slide%20241118.pdf",
+      "name": "October Treasury Report Slide 241118.pdf",
+      "extension": ".pdf",
+      "size": 112265,
+      "lastModified": "Mon, 11 Nov 2024 17:07:27 GMT",
+      "contentType": "application/pdf",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Documents/Financials/2024%20Financials/SBNC%20November%202024%20Financial%20Reports.pdf",
+      "path": "/resources/Documents/Financials/2024%20Financials/SBNC%20November%202024%20Financial%20Reports.pdf",
+      "name": "SBNC November 2024 Financial Reports.pdf",
+      "extension": ".pdf",
+      "size": 136908,
+      "lastModified": "Tue, 10 Dec 2024 08:38:00 GMT",
+      "contentType": "application/pdf",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Documents/Financials/2024%20Financials/November%20Treasury%20Report%20241216.pdf",
+      "path": "/resources/Documents/Financials/2024%20Financials/November%20Treasury%20Report%20241216.pdf",
+      "name": "November Treasury Report 241216.pdf",
+      "extension": ".pdf",
+      "size": 57233,
+      "lastModified": "Tue, 10 Dec 2024 08:38:00 GMT",
+      "contentType": "application/pdf",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Documents/Financials/2024%20Financials/SBNC%20December%202024%20Financial%20Reports.pdf",
+      "path": "/resources/Documents/Financials/2024%20Financials/SBNC%20December%202024%20Financial%20Reports.pdf",
+      "name": "SBNC December 2024 Financial Reports.pdf",
+      "extension": ".pdf",
+      "size": 133921,
+      "lastModified": "Wed, 15 Jan 2025 09:47:18 GMT",
+      "contentType": "application/pdf",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Documents/Financials/2024%20Financials/December%20Treasury%20Report%20250120.pdf",
+      "path": "/resources/Documents/Financials/2024%20Financials/December%20Treasury%20Report%20250120.pdf",
+      "name": "December Treasury Report 250120.pdf",
+      "extension": ".pdf",
+      "size": 56405,
+      "lastModified": "Wed, 15 Jan 2025 09:47:17 GMT",
+      "contentType": "application/pdf",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Documents/Financials/2024%20Financials/December%20Treasury%20Slide%20250120.pdf",
+      "path": "/resources/Documents/Financials/2024%20Financials/December%20Treasury%20Slide%20250120.pdf",
+      "name": "December Treasury Slide 250120.pdf",
+      "extension": ".pdf",
+      "size": 114883,
+      "lastModified": "Wed, 15 Jan 2025 09:47:17 GMT",
+      "contentType": "application/pdf",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Pictures/Committee%20Photos/XCommittee%20Webpage%20Slideshow/Slide01.jpeg",
+      "path": "/resources/Pictures/Committee%20Photos/XCommittee%20Webpage%20Slideshow/Slide01.jpeg",
+      "name": "Slide01.jpeg",
+      "extension": ".jpeg",
+      "size": 45569,
+      "lastModified": "Sun, 05 Oct 2025 14:16:44 GMT",
+      "contentType": "image/jpeg",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Pictures/Committee%20Photos/XCommittee%20Webpage%20Slideshow/Slide02.jpeg",
+      "path": "/resources/Pictures/Committee%20Photos/XCommittee%20Webpage%20Slideshow/Slide02.jpeg",
+      "name": "Slide02.jpeg",
+      "extension": ".jpeg",
+      "size": 92664,
+      "lastModified": "Sun, 05 Oct 2025 14:16:44 GMT",
+      "contentType": "image/jpeg",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Pictures/Committee%20Photos/XCommittee%20Webpage%20Slideshow/Slide03.jpeg",
+      "path": "/resources/Pictures/Committee%20Photos/XCommittee%20Webpage%20Slideshow/Slide03.jpeg",
+      "name": "Slide03.jpeg",
+      "extension": ".jpeg",
+      "size": 79542,
+      "lastModified": "Sun, 05 Oct 2025 14:16:44 GMT",
+      "contentType": "image/jpeg",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Pictures/Committee%20Photos/XCommittee%20Webpage%20Slideshow/Slide04.jpeg",
+      "path": "/resources/Pictures/Committee%20Photos/XCommittee%20Webpage%20Slideshow/Slide04.jpeg",
+      "name": "Slide04.jpeg",
+      "extension": ".jpeg",
+      "size": 91058,
+      "lastModified": "Sun, 05 Oct 2025 14:16:44 GMT",
+      "contentType": "image/jpeg",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Pictures/Committee%20Photos/XCommittee%20Webpage%20Slideshow/Slide05.jpeg",
+      "path": "/resources/Pictures/Committee%20Photos/XCommittee%20Webpage%20Slideshow/Slide05.jpeg",
+      "name": "Slide05.jpeg",
+      "extension": ".jpeg",
+      "size": 85370,
+      "lastModified": "Sun, 05 Oct 2025 14:16:45 GMT",
+      "contentType": "image/jpeg",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Pictures/Committee%20Photos/XCommittee%20Webpage%20Slideshow/Slide06.jpeg",
+      "path": "/resources/Pictures/Committee%20Photos/XCommittee%20Webpage%20Slideshow/Slide06.jpeg",
+      "name": "Slide06.jpeg",
+      "extension": ".jpeg",
+      "size": 103859,
+      "lastModified": "Sun, 05 Oct 2025 14:16:45 GMT",
+      "contentType": "image/jpeg",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Pictures/Committee%20Photos/XCommittee%20Webpage%20Slideshow/Slide07.jpeg",
+      "path": "/resources/Pictures/Committee%20Photos/XCommittee%20Webpage%20Slideshow/Slide07.jpeg",
+      "name": "Slide07.jpeg",
+      "extension": ".jpeg",
+      "size": 79701,
+      "lastModified": "Sun, 05 Oct 2025 14:16:45 GMT",
+      "contentType": "image/jpeg",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Pictures/Committee%20Photos/XCommittee%20Webpage%20Slideshow/Slide08.jpeg",
+      "path": "/resources/Pictures/Committee%20Photos/XCommittee%20Webpage%20Slideshow/Slide08.jpeg",
+      "name": "Slide08.jpeg",
+      "extension": ".jpeg",
+      "size": 90650,
+      "lastModified": "Sun, 05 Oct 2025 14:16:45 GMT",
+      "contentType": "image/jpeg",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Pictures/Committee%20Photos/XCommittee%20Webpage%20Slideshow/Slide09.jpeg",
+      "path": "/resources/Pictures/Committee%20Photos/XCommittee%20Webpage%20Slideshow/Slide09.jpeg",
+      "name": "Slide09.jpeg",
+      "extension": ".jpeg",
+      "size": 70537,
+      "lastModified": "Sun, 05 Oct 2025 14:16:45 GMT",
+      "contentType": "image/jpeg",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Pictures/Committee%20Photos/XCommittee%20Webpage%20Slideshow/Slide10.jpeg",
+      "path": "/resources/Pictures/Committee%20Photos/XCommittee%20Webpage%20Slideshow/Slide10.jpeg",
+      "name": "Slide10.jpeg",
+      "extension": ".jpeg",
+      "size": 76854,
+      "lastModified": "Sun, 05 Oct 2025 14:16:46 GMT",
+      "contentType": "image/jpeg",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Pictures/Committee%20Photos/XCommittee%20Webpage%20Slideshow/Slide11.jpeg",
+      "path": "/resources/Pictures/Committee%20Photos/XCommittee%20Webpage%20Slideshow/Slide11.jpeg",
+      "name": "Slide11.jpeg",
+      "extension": ".jpeg",
+      "size": 108855,
+      "lastModified": "Sun, 05 Oct 2025 14:16:46 GMT",
+      "contentType": "image/jpeg",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Pictures/Committee%20Photos/XCommittee%20Webpage%20Slideshow/Slide12.jpeg",
+      "path": "/resources/Pictures/Committee%20Photos/XCommittee%20Webpage%20Slideshow/Slide12.jpeg",
+      "name": "Slide12.jpeg",
+      "extension": ".jpeg",
+      "size": 115171,
+      "lastModified": "Sun, 05 Oct 2025 14:16:46 GMT",
+      "contentType": "image/jpeg",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Pictures/Committee%20Photos/XCommittee%20Webpage%20Slideshow/Slide13.jpeg",
+      "path": "/resources/Pictures/Committee%20Photos/XCommittee%20Webpage%20Slideshow/Slide13.jpeg",
+      "name": "Slide13.jpeg",
+      "extension": ".jpeg",
+      "size": 64958,
+      "lastModified": "Sun, 05 Oct 2025 14:16:47 GMT",
+      "contentType": "image/jpeg",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Pictures/Committee%20Photos/XCommittee%20Webpage%20Slideshow/Slide14.jpeg",
+      "path": "/resources/Pictures/Committee%20Photos/XCommittee%20Webpage%20Slideshow/Slide14.jpeg",
+      "name": "Slide14.jpeg",
+      "extension": ".jpeg",
+      "size": 110834,
+      "lastModified": "Sun, 05 Oct 2025 14:16:47 GMT",
+      "contentType": "image/jpeg",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Pictures/Committee%20Photos/XCommittee%20Webpage%20Slideshow/Slide15.jpeg",
+      "path": "/resources/Pictures/Committee%20Photos/XCommittee%20Webpage%20Slideshow/Slide15.jpeg",
+      "name": "Slide15.jpeg",
+      "extension": ".jpeg",
+      "size": 85841,
+      "lastModified": "Sun, 05 Oct 2025 14:16:47 GMT",
+      "contentType": "image/jpeg",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Pictures/Committee%20Photos/XCommittee%20Webpage%20Slideshow/Slide16.jpeg",
+      "path": "/resources/Pictures/Committee%20Photos/XCommittee%20Webpage%20Slideshow/Slide16.jpeg",
+      "name": "Slide16.jpeg",
+      "extension": ".jpeg",
+      "size": 92185,
+      "lastModified": "Sun, 05 Oct 2025 14:16:48 GMT",
+      "contentType": "image/jpeg",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Pictures/Committee%20Photos/XCommittee%20Webpage%20Slideshow/Slide17.jpeg",
+      "path": "/resources/Pictures/Committee%20Photos/XCommittee%20Webpage%20Slideshow/Slide17.jpeg",
+      "name": "Slide17.jpeg",
+      "extension": ".jpeg",
+      "size": 118908,
+      "lastModified": "Sun, 05 Oct 2025 14:16:48 GMT",
+      "contentType": "image/jpeg",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Pictures/Committee%20Photos/XCommittee%20Webpage%20Slideshow/Slide18.jpeg",
+      "path": "/resources/Pictures/Committee%20Photos/XCommittee%20Webpage%20Slideshow/Slide18.jpeg",
+      "name": "Slide18.jpeg",
+      "extension": ".jpeg",
+      "size": 105511,
+      "lastModified": "Sun, 05 Oct 2025 14:16:48 GMT",
+      "contentType": "image/jpeg",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Pictures/Committee%20Photos/XCommittee%20Webpage%20Slideshow/Slide19.jpeg",
+      "path": "/resources/Pictures/Committee%20Photos/XCommittee%20Webpage%20Slideshow/Slide19.jpeg",
+      "name": "Slide19.jpeg",
+      "extension": ".jpeg",
+      "size": 69721,
+      "lastModified": "Sun, 05 Oct 2025 14:16:49 GMT",
+      "contentType": "image/jpeg",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Pictures/Committee%20Photos/XCommittee%20Webpage%20Slideshow/Slide20.jpeg",
+      "path": "/resources/Pictures/Committee%20Photos/XCommittee%20Webpage%20Slideshow/Slide20.jpeg",
+      "name": "Slide20.jpeg",
+      "extension": ".jpeg",
+      "size": 99365,
+      "lastModified": "Sun, 05 Oct 2025 14:16:49 GMT",
+      "contentType": "image/jpeg",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Pictures/Committee%20Photos/XCommittee%20Webpage%20Slideshow/Slide21.jpeg",
+      "path": "/resources/Pictures/Committee%20Photos/XCommittee%20Webpage%20Slideshow/Slide21.jpeg",
+      "name": "Slide21.jpeg",
+      "extension": ".jpeg",
+      "size": 82691,
+      "lastModified": "Sun, 05 Oct 2025 14:16:49 GMT",
+      "contentType": "image/jpeg",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Pictures/Committee%20Photos/XCommittee%20Webpage%20Slideshow/Slide22.jpeg",
+      "path": "/resources/Pictures/Committee%20Photos/XCommittee%20Webpage%20Slideshow/Slide22.jpeg",
+      "name": "Slide22.jpeg",
+      "extension": ".jpeg",
+      "size": 96485,
+      "lastModified": "Sun, 05 Oct 2025 14:16:49 GMT",
+      "contentType": "image/jpeg",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Pictures/Committee%20Photos/XCommittee%20Webpage%20Slideshow/Slide23.jpeg",
+      "path": "/resources/Pictures/Committee%20Photos/XCommittee%20Webpage%20Slideshow/Slide23.jpeg",
+      "name": "Slide23.jpeg",
+      "extension": ".jpeg",
+      "size": 115144,
+      "lastModified": "Sun, 05 Oct 2025 14:16:49 GMT",
+      "contentType": "image/jpeg",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Pictures/Committee%20Photos/XCommittee%20Webpage%20Slideshow/Slide24.jpeg",
+      "path": "/resources/Pictures/Committee%20Photos/XCommittee%20Webpage%20Slideshow/Slide24.jpeg",
+      "name": "Slide24.jpeg",
+      "extension": ".jpeg",
+      "size": 120808,
+      "lastModified": "Sun, 05 Oct 2025 14:16:49 GMT",
+      "contentType": "image/jpeg",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Pictures/Committee%20Photos/XCommittee%20Webpage%20Slideshow/Slide25.jpeg",
+      "path": "/resources/Pictures/Committee%20Photos/XCommittee%20Webpage%20Slideshow/Slide25.jpeg",
+      "name": "Slide25.jpeg",
+      "extension": ".jpeg",
+      "size": 54056,
+      "lastModified": "Sun, 05 Oct 2025 14:16:51 GMT",
+      "contentType": "image/jpeg",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Pictures/Committee%20Photos/XCommittee%20Webpage%20Slideshow/Slide26.jpeg",
+      "path": "/resources/Pictures/Committee%20Photos/XCommittee%20Webpage%20Slideshow/Slide26.jpeg",
+      "name": "Slide26.jpeg",
+      "extension": ".jpeg",
+      "size": 104763,
+      "lastModified": "Sun, 05 Oct 2025 14:16:50 GMT",
+      "contentType": "image/jpeg",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Pictures/Committee%20Photos/XCommittee%20Webpage%20Slideshow/Slide27.jpeg",
+      "path": "/resources/Pictures/Committee%20Photos/XCommittee%20Webpage%20Slideshow/Slide27.jpeg",
+      "name": "Slide27.jpeg",
+      "extension": ".jpeg",
+      "size": 96643,
+      "lastModified": "Sun, 05 Oct 2025 14:16:50 GMT",
+      "contentType": "image/jpeg",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Pictures/Committee%20Photos/XCommittee%20Webpage%20Slideshow/Slide28.jpeg",
+      "path": "/resources/Pictures/Committee%20Photos/XCommittee%20Webpage%20Slideshow/Slide28.jpeg",
+      "name": "Slide28.jpeg",
+      "extension": ".jpeg",
+      "size": 68726,
+      "lastModified": "Sun, 05 Oct 2025 14:16:51 GMT",
+      "contentType": "image/jpeg",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Pictures/Committee%20Photos/XCommittee%20Webpage%20Slideshow/Slide29.jpeg",
+      "path": "/resources/Pictures/Committee%20Photos/XCommittee%20Webpage%20Slideshow/Slide29.jpeg",
+      "name": "Slide29.jpeg",
+      "extension": ".jpeg",
+      "size": 86184,
+      "lastModified": "Sun, 05 Oct 2025 14:16:51 GMT",
+      "contentType": "image/jpeg",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Pictures/Committee%20Photos/XCommittee%20Webpage%20Slideshow/Slide30.jpeg",
+      "path": "/resources/Pictures/Committee%20Photos/XCommittee%20Webpage%20Slideshow/Slide30.jpeg",
+      "name": "Slide30.jpeg",
+      "extension": ".jpeg",
+      "size": 108229,
+      "lastModified": "Sun, 05 Oct 2025 14:26:10 GMT",
+      "contentType": "image/jpeg",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Pictures/Committee%20Photos/XCommittee%20Webpage%20Slideshow/Slide31.jpeg",
+      "path": "/resources/Pictures/Committee%20Photos/XCommittee%20Webpage%20Slideshow/Slide31.jpeg",
+      "name": "Slide31.jpeg",
+      "extension": ".jpeg",
+      "size": 96236,
+      "lastModified": "Sun, 05 Oct 2025 14:16:52 GMT",
+      "contentType": "image/jpeg",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Pictures/Committee%20Photos/XCommittee%20Webpage%20Slideshow/Slide32.jpeg",
+      "path": "/resources/Pictures/Committee%20Photos/XCommittee%20Webpage%20Slideshow/Slide32.jpeg",
+      "name": "Slide32.jpeg",
+      "extension": ".jpeg",
+      "size": 59462,
+      "lastModified": "Sun, 05 Oct 2025 14:16:52 GMT",
+      "contentType": "image/jpeg",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Pictures/Committee%20Photos/XCommittee%20Webpage%20Slideshow/Slide33.jpeg",
+      "path": "/resources/Pictures/Committee%20Photos/XCommittee%20Webpage%20Slideshow/Slide33.jpeg",
+      "name": "Slide33.jpeg",
+      "extension": ".jpeg",
+      "size": 92090,
+      "lastModified": "Sun, 05 Oct 2025 14:16:52 GMT",
+      "contentType": "image/jpeg",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Pictures/ZZZ-Site%20page%20Images%20and%20Pictures/Home/Activities%20Photos/38524585_2135808810040725_5771023581404200960_n.jpg",
+      "path": "/resources/Pictures/ZZZ-Site%20page%20Images%20and%20Pictures/Home/Activities%20Photos/38524585_2135808810040725_5771023581404200960_n.jpg",
+      "name": "38524585_2135808810040725_5771023581404200960_n.jpg",
+      "extension": ".jpg",
+      "size": 50838,
+      "lastModified": "Mon, 21 Sep 2020 16:17:04 GMT",
+      "contentType": "image/jpeg",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Pictures/ZZZ-Site%20page%20Images%20and%20Pictures/Home/Activities%20Photos/38544384_2135808736707399_8260346691559882752_n.jpg",
+      "path": "/resources/Pictures/ZZZ-Site%20page%20Images%20and%20Pictures/Home/Activities%20Photos/38544384_2135808736707399_8260346691559882752_n.jpg",
+      "name": "38544384_2135808736707399_8260346691559882752_n.jpg",
+      "extension": ".jpg",
+      "size": 46927,
+      "lastModified": "Mon, 21 Sep 2020 16:17:04 GMT",
+      "contentType": "image/jpeg",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Pictures/ZZZ-Site%20page%20Images%20and%20Pictures/Home/Activities%20Photos/38701215_2135808783374061_8360403520997818368_n.jpg",
+      "path": "/resources/Pictures/ZZZ-Site%20page%20Images%20and%20Pictures/Home/Activities%20Photos/38701215_2135808783374061_8360403520997818368_n.jpg",
+      "name": "38701215_2135808783374061_8360403520997818368_n.jpg",
+      "extension": ".jpg",
+      "size": 52025,
+      "lastModified": "Mon, 21 Sep 2020 16:17:04 GMT",
+      "contentType": "image/jpeg",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Pictures/ZZZ-Site%20page%20Images%20and%20Pictures/Home/Activities%20Photos/38931913_2142137272741212_981736052492337152_n.jpg",
+      "path": "/resources/Pictures/ZZZ-Site%20page%20Images%20and%20Pictures/Home/Activities%20Photos/38931913_2142137272741212_981736052492337152_n.jpg",
+      "name": "38931913_2142137272741212_981736052492337152_n.jpg",
+      "extension": ".jpg",
+      "size": 178501,
+      "lastModified": "Mon, 21 Sep 2020 16:17:05 GMT",
+      "contentType": "image/jpeg",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Pictures/ZZZ-Site%20page%20Images%20and%20Pictures/Home/Activities%20Photos/40152248_2157439521210987_6430059435070062592_n.jpg",
+      "path": "/resources/Pictures/ZZZ-Site%20page%20Images%20and%20Pictures/Home/Activities%20Photos/40152248_2157439521210987_6430059435070062592_n.jpg",
+      "name": "40152248_2157439521210987_6430059435070062592_n.jpg",
+      "extension": ".jpg",
+      "size": 167589,
+      "lastModified": "Mon, 21 Sep 2020 16:17:06 GMT",
+      "contentType": "image/jpeg",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Pictures/ZZZ-Site%20page%20Images%20and%20Pictures/Home/Activities%20Photos/40287365_2157439551210984_8597056635619246080_n.jpg",
+      "path": "/resources/Pictures/ZZZ-Site%20page%20Images%20and%20Pictures/Home/Activities%20Photos/40287365_2157439551210984_8597056635619246080_n.jpg",
+      "name": "40287365_2157439551210984_8597056635619246080_n.jpg",
+      "extension": ".jpg",
+      "size": 194044,
+      "lastModified": "Mon, 21 Sep 2020 16:17:06 GMT",
+      "contentType": "image/jpeg",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Pictures/ZZZ-Site%20page%20Images%20and%20Pictures/Home/Activities%20Photos/40418455_2159099924378280_3731992929984577536_n.jpg",
+      "path": "/resources/Pictures/ZZZ-Site%20page%20Images%20and%20Pictures/Home/Activities%20Photos/40418455_2159099924378280_3731992929984577536_n.jpg",
+      "name": "40418455_2159099924378280_3731992929984577536_n.jpg",
+      "extension": ".jpg",
+      "size": 80873,
+      "lastModified": "Mon, 21 Sep 2020 16:17:06 GMT",
+      "contentType": "image/jpeg",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Pictures/ZZZ-Site%20page%20Images%20and%20Pictures/Home/Activities%20Photos/41190785_2163620293926243_2623676584892039168_n.jpg",
+      "path": "/resources/Pictures/ZZZ-Site%20page%20Images%20and%20Pictures/Home/Activities%20Photos/41190785_2163620293926243_2623676584892039168_n.jpg",
+      "name": "41190785_2163620293926243_2623676584892039168_n.jpg",
+      "extension": ".jpg",
+      "size": 84886,
+      "lastModified": "Mon, 21 Sep 2020 16:17:06 GMT",
+      "contentType": "image/jpeg",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Pictures/ZZZ-Site%20page%20Images%20and%20Pictures/Home/Activities%20Photos/41530674_2165216573766615_6597841662473404416_n.jpg",
+      "path": "/resources/Pictures/ZZZ-Site%20page%20Images%20and%20Pictures/Home/Activities%20Photos/41530674_2165216573766615_6597841662473404416_n.jpg",
+      "name": "41530674_2165216573766615_6597841662473404416_n.jpg",
+      "extension": ".jpg",
+      "size": 161253,
+      "lastModified": "Mon, 21 Sep 2020 16:17:06 GMT",
+      "contentType": "image/jpeg",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Pictures/ZZZ-Site%20page%20Images%20and%20Pictures/Home/Activities%20Photos/image1.jpeg",
+      "path": "/resources/Pictures/ZZZ-Site%20page%20Images%20and%20Pictures/Home/Activities%20Photos/image1.jpeg",
+      "name": "image1.jpeg",
+      "extension": ".jpeg",
+      "size": 2135110,
+      "lastModified": "Mon, 21 Sep 2020 16:17:08 GMT",
+      "contentType": "image/jpeg",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Pictures/ZZZ-Site%20page%20Images%20and%20Pictures/Home/Activities%20Photos/IMG_3476.jpg",
+      "path": "/resources/Pictures/ZZZ-Site%20page%20Images%20and%20Pictures/Home/Activities%20Photos/IMG_3476.jpg",
+      "name": "IMG_3476.jpg",
+      "extension": ".jpg",
+      "size": 449507,
+      "lastModified": "Mon, 21 Sep 2020 16:17:09 GMT",
+      "contentType": "image/jpeg",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Pictures/ZZZ-Site%20page%20Images%20and%20Pictures/Home/Activities%20Photos/IMG_3477.jpg",
+      "path": "/resources/Pictures/ZZZ-Site%20page%20Images%20and%20Pictures/Home/Activities%20Photos/IMG_3477.jpg",
+      "name": "IMG_3477.jpg",
+      "extension": ".jpg",
+      "size": 1132065,
+      "lastModified": "Mon, 21 Sep 2020 16:17:09 GMT",
+      "contentType": "image/jpeg",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Pictures/ZZZ-Site%20page%20Images%20and%20Pictures/Home/Activities%20Photos/IMG_3488.jpg",
+      "path": "/resources/Pictures/ZZZ-Site%20page%20Images%20and%20Pictures/Home/Activities%20Photos/IMG_3488.jpg",
+      "name": "IMG_3488.jpg",
+      "extension": ".jpg",
+      "size": 1917284,
+      "lastModified": "Mon, 21 Sep 2020 16:17:12 GMT",
+      "contentType": "image/jpeg",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Pictures/ZZZ-Site%20page%20Images%20and%20Pictures/Home/Activities%20Photos/IMG_3489.jpg",
+      "path": "/resources/Pictures/ZZZ-Site%20page%20Images%20and%20Pictures/Home/Activities%20Photos/IMG_3489.jpg",
+      "name": "IMG_3489.jpg",
+      "extension": ".jpg",
+      "size": 1658654,
+      "lastModified": "Mon, 21 Sep 2020 16:17:12 GMT",
+      "contentType": "image/jpeg",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Pictures/ZZZ-Site%20page%20Images%20and%20Pictures/Home/Activities%20Photos/IMG_3492.jpg",
+      "path": "/resources/Pictures/ZZZ-Site%20page%20Images%20and%20Pictures/Home/Activities%20Photos/IMG_3492.jpg",
+      "name": "IMG_3492.jpg",
+      "extension": ".jpg",
+      "size": 2055220,
+      "lastModified": "Mon, 21 Sep 2020 16:17:17 GMT",
+      "contentType": "image/jpeg",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Pictures/ZZZ-Site%20page%20Images%20and%20Pictures/Home/Activities%20Photos/IMG_5256.JPG",
+      "path": "/resources/Pictures/ZZZ-Site%20page%20Images%20and%20Pictures/Home/Activities%20Photos/IMG_5256.JPG",
+      "name": "IMG_5256.JPG",
+      "extension": ".jpg",
+      "size": 2748761,
+      "lastModified": "Mon, 21 Sep 2020 16:17:17 GMT",
+      "contentType": "image/jpeg",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Pictures/ZZZ-Site%20page%20Images%20and%20Pictures/Home/Activities%20Photos/IMG_5257.JPG",
+      "path": "/resources/Pictures/ZZZ-Site%20page%20Images%20and%20Pictures/Home/Activities%20Photos/IMG_5257.JPG",
+      "name": "IMG_5257.JPG",
+      "extension": ".jpg",
+      "size": 2560572,
+      "lastModified": "Mon, 21 Sep 2020 16:17:19 GMT",
+      "contentType": "image/jpeg",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Pictures/ZZZ-Site%20page%20Images%20and%20Pictures/Home/Activities%20Photos/IMG_5260.JPG",
+      "path": "/resources/Pictures/ZZZ-Site%20page%20Images%20and%20Pictures/Home/Activities%20Photos/IMG_5260.JPG",
+      "name": "IMG_5260.JPG",
+      "extension": ".jpg",
+      "size": 4963662,
+      "lastModified": "Mon, 21 Sep 2020 16:17:26 GMT",
+      "contentType": "image/jpeg",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Pictures/ZZZ-Site%20page%20Images%20and%20Pictures/Home/Activities%20Photos/IMG_5269.JPG",
+      "path": "/resources/Pictures/ZZZ-Site%20page%20Images%20and%20Pictures/Home/Activities%20Photos/IMG_5269.JPG",
+      "name": "IMG_5269.JPG",
+      "extension": ".jpg",
+      "size": 4281716,
+      "lastModified": "Mon, 21 Sep 2020 16:17:26 GMT",
+      "contentType": "image/jpeg",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Pictures/ZZZ-Site%20page%20Images%20and%20Pictures/Home/Activities%20Photos/IMG_8155.JPG",
+      "path": "/resources/Pictures/ZZZ-Site%20page%20Images%20and%20Pictures/Home/Activities%20Photos/IMG_8155.JPG",
+      "name": "IMG_8155.JPG",
+      "extension": ".jpg",
+      "size": 1070864,
+      "lastModified": "Mon, 21 Sep 2020 16:17:21 GMT",
+      "contentType": "image/jpeg",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Pictures/ZZZ-Site%20page%20Images%20and%20Pictures/Home/Activities%20Photos/IMG_9175.jpeg",
+      "path": "/resources/Pictures/ZZZ-Site%20page%20Images%20and%20Pictures/Home/Activities%20Photos/IMG_9175.jpeg",
+      "name": "IMG_9175.jpeg",
+      "extension": ".jpeg",
+      "size": 306281,
+      "lastModified": "Mon, 21 Sep 2020 16:17:23 GMT",
+      "contentType": "image/jpeg",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Pictures/ZZZ-Site%20page%20Images%20and%20Pictures/Home/Activities%20Photos/photo%201.jpg",
+      "path": "/resources/Pictures/ZZZ-Site%20page%20Images%20and%20Pictures/Home/Activities%20Photos/photo%201.jpg",
+      "name": "photo 1.jpg",
+      "extension": ".jpg",
+      "size": 3775452,
+      "lastModified": "Mon, 21 Sep 2020 16:17:29 GMT",
+      "contentType": "image/jpeg",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Pictures/ZZZ-Site%20page%20Images%20and%20Pictures/Home/Activities%20Photos/Secrets%20of%20a%20Tamale%20Chef%202%2008-10-18.JPG",
+      "path": "/resources/Pictures/ZZZ-Site%20page%20Images%20and%20Pictures/Home/Activities%20Photos/Secrets%20of%20a%20Tamale%20Chef%202%2008-10-18.JPG",
+      "name": "Secrets of a Tamale Chef 2 08-10-18.JPG",
+      "extension": ".jpg",
+      "size": 1163437,
+      "lastModified": "Mon, 21 Sep 2020 16:17:34 GMT",
+      "contentType": "image/jpeg",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Pictures/ZZZ-Site%20page%20Images%20and%20Pictures/Home/Activities%20Photos/wine%20appreciation-2018.jpg",
+      "path": "/resources/Pictures/ZZZ-Site%20page%20Images%20and%20Pictures/Home/Activities%20Photos/wine%20appreciation-2018.jpg",
+      "name": "wine appreciation-2018.jpg",
+      "extension": ".jpg",
+      "size": 1629204,
+      "lastModified": "Mon, 21 Sep 2020 16:17:34 GMT",
+      "contentType": "image/jpeg",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Pictures/WA%20App%20Pics/Image%202-1-23%20at%208.12%20AM.jpeg",
+      "path": "/resources/Pictures/WA%20App%20Pics/Image%202-1-23%20at%208.12%20AM.jpeg",
+      "name": "Image 2-1-23 at 8.12 AM.jpeg",
+      "extension": ".jpeg",
+      "size": 68626,
+      "lastModified": "Wed, 01 Feb 2023 08:16:23 GMT",
+      "contentType": "image/jpeg",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Documents/Member%20Information/SBNC%20New%20Member%20Orientation%20Presentation%20Spring%202025.pptx",
+      "path": "/resources/Documents/Member%20Information/SBNC%20New%20Member%20Orientation%20Presentation%20Spring%202025.pptx",
+      "name": "SBNC New Member Orientation Presentation Spring 2025.pptx",
+      "extension": ".pptx",
+      "size": 12167343,
+      "lastModified": "Sun, 06 Apr 2025 22:35:26 GMT",
+      "contentType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Documents/Governing%20Documents/Top%2010%20Policies%20and%20Basic%20Principles%20You%20Should%20Know.pdf",
+      "path": "/resources/Documents/Governing%20Documents/Top%2010%20Policies%20and%20Basic%20Principles%20You%20Should%20Know.pdf",
+      "name": "Top 10 Policies and Basic Principles You Should Know.pdf",
+      "extension": ".pdf",
+      "size": 119874,
+      "lastModified": "Fri, 14 Feb 2025 14:16:53 GMT",
+      "contentType": "application/pdf",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Documents/Member%20Information/New%20Member%20FAQs%20Updated%201-18-23.pdf",
+      "path": "/resources/Documents/Member%20Information/New%20Member%20FAQs%20Updated%201-18-23.pdf",
+      "name": "New Member FAQs Updated 1-18-23.pdf",
+      "extension": ".pdf",
+      "size": 423430,
+      "lastModified": "Wed, 18 Jan 2023 17:30:32 GMT",
+      "contentType": "application/pdf",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Documents/Member%20Information/Links%20To%20Local%20News,%20Government%20And%20Other%20Websites%20Rev.2021.10.02.pdf",
+      "path": "/resources/Documents/Member%20Information/Links%20To%20Local%20News,%20Government%20And%20Other%20Websites%20Rev.2021.10.02.pdf",
+      "name": "Links To Local News, Government And Other Websites Rev.2021.10.02.pdf",
+      "extension": ".pdf",
+      "size": 351720,
+      "lastModified": "Sat, 02 Oct 2021 15:00:12 GMT",
+      "contentType": "application/pdf",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Documents/Member%20Information/Volunteering%20Your%20Home%20for%20Socials%20Updated%201-18-23.docx",
+      "path": "/resources/Documents/Member%20Information/Volunteering%20Your%20Home%20for%20Socials%20Updated%201-18-23.docx",
+      "name": "Volunteering Your Home for Socials Updated 1-18-23.docx",
+      "extension": ".docx",
+      "size": 122864,
+      "lastModified": "Wed, 18 Jan 2023 17:36:11 GMT",
+      "contentType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Documents/Member%20Information/Updating%20Your%20Membership%20Profile%20Rev.%202022-05-19.pdf",
+      "path": "/resources/Documents/Member%20Information/Updating%20Your%20Membership%20Profile%20Rev.%202022-05-19.pdf",
+      "name": "Updating Your Membership Profile Rev. 2022-05-19.pdf",
+      "extension": ".pdf",
+      "size": 495185,
+      "lastModified": "Sat, 21 May 2022 16:16:37 GMT",
+      "contentType": "application/pdf",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Documents/Member%20Information/Changing%20Your%20Password.pdf",
+      "path": "/resources/Documents/Member%20Information/Changing%20Your%20Password.pdf",
+      "name": "Changing Your Password.pdf",
+      "extension": ".pdf",
+      "size": 636741,
+      "lastModified": "Tue, 24 Aug 2021 10:08:03 GMT",
+      "contentType": "application/pdf",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Documents/Member%20Information/How%20to%20Put%20Your%20Picture%20on%20Your%20Profile%20Rev.%202021.10.04.pdf",
+      "path": "/resources/Documents/Member%20Information/How%20to%20Put%20Your%20Picture%20on%20Your%20Profile%20Rev.%202021.10.04.pdf",
+      "name": "How to Put Your Picture on Your Profile Rev. 2021.10.04.pdf",
+      "extension": ".pdf",
+      "size": 1030844,
+      "lastModified": "Mon, 04 Oct 2021 16:50:18 GMT",
+      "contentType": "application/pdf",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Documents/Member%20Information/5%20Registering%20for%20an%20Event%20Rev.%202021.10.04.pdf",
+      "path": "/resources/Documents/Member%20Information/5%20Registering%20for%20an%20Event%20Rev.%202021.10.04.pdf",
+      "name": "5 Registering for an Event Rev. 2021.10.04.pdf",
+      "extension": ".pdf",
+      "size": 2340496,
+      "lastModified": "Mon, 04 Oct 2021 17:57:12 GMT",
+      "contentType": "application/pdf",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Documents/Member%20Information/6%20Registering%20Two%20Members%20on%20One%20Login.pdf",
+      "path": "/resources/Documents/Member%20Information/6%20Registering%20Two%20Members%20on%20One%20Login.pdf",
+      "name": "6 Registering Two Members on One Login.pdf",
+      "extension": ".pdf",
+      "size": 539346,
+      "lastModified": "Mon, 04 Oct 2021 19:44:24 GMT",
+      "contentType": "application/pdf",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Documents/Member%20Information/Forms/SBNC_Expense_Reimbursement_FAQ.pdf",
+      "path": "/resources/Documents/Member%20Information/Forms/SBNC_Expense_Reimbursement_FAQ.pdf",
+      "name": "SBNC_Expense_Reimbursement_FAQ.pdf",
+      "extension": ".pdf",
+      "size": 299910,
+      "lastModified": "Fri, 28 Feb 2025 11:42:58 GMT",
+      "contentType": "application/pdf",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Documents/Training%20Guides/Event%20Guides/Printing%20Name%20Tags.pdf",
+      "path": "/resources/Documents/Training%20Guides/Event%20Guides/Printing%20Name%20Tags.pdf",
+      "name": "Printing Name Tags.pdf",
+      "extension": ".pdf",
+      "size": 1620390,
+      "lastModified": "Thu, 27 Mar 2025 19:04:59 GMT",
+      "contentType": "application/pdf",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Documents/Member%20Information/Forms/Basic%20SBNC%20Name%20Tag%20Print%20Label%20Template..docx",
+      "path": "/resources/Documents/Member%20Information/Forms/Basic%20SBNC%20Name%20Tag%20Print%20Label%20Template..docx",
+      "name": "Basic SBNC Name Tag Print Label Template..docx",
+      "extension": ".docx",
+      "size": 120018,
+      "lastModified": "Mon, 09 Jun 2025 22:40:12 GMT",
+      "contentType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Documents/Inventory/SBNC%20Storage%20Unit%20Inventory%20List1.pdf",
+      "path": "/resources/Documents/Inventory/SBNC%20Storage%20Unit%20Inventory%20List1.pdf",
+      "name": "SBNC Storage Unit Inventory List1.pdf",
+      "extension": ".pdf",
+      "size": 2110709,
+      "lastModified": "Fri, 27 Jun 2025 15:59:36 GMT",
+      "contentType": "application/pdf",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Documents/Governing%20Documents/Bylaws%20(rev.%202024.07.29).pdf",
+      "path": "/resources/Documents/Governing%20Documents/Bylaws%20(rev.%202024.07.29).pdf",
+      "name": "Bylaws (rev. 2024.07.29).pdf",
+      "extension": ".pdf",
+      "size": 274204,
+      "lastModified": "Mon, 29 Jul 2024 17:10:28 GMT",
+      "contentType": "application/pdf",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Documents/Governing%20Documents/Policies%20and%20Procedures%20%20(rev%202025.02.01).pdf",
+      "path": "/resources/Documents/Governing%20Documents/Policies%20and%20Procedures%20%20(rev%202025.02.01).pdf",
+      "name": "Policies and Procedures  (rev 2025.02.01).pdf",
+      "extension": ".pdf",
+      "size": 360255,
+      "lastModified": "Sun, 26 Jan 2025 14:40:07 GMT",
+      "contentType": "application/pdf",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Documents/Governing%20Documents/SBNC%20ALCOHOL%20POLICY%204.8.pdf",
+      "path": "/resources/Documents/Governing%20Documents/SBNC%20ALCOHOL%20POLICY%204.8.pdf",
+      "name": "SBNC ALCOHOL POLICY 4.8.pdf",
+      "extension": ".pdf",
+      "size": 85827,
+      "lastModified": "Mon, 11 Sep 2023 08:06:55 GMT",
+      "contentType": "application/pdf",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Documents/Governing%20Documents/Website%20Policy%20(rev.%2001-14-19).pdf",
+      "path": "/resources/Documents/Governing%20Documents/Website%20Policy%20(rev.%2001-14-19).pdf",
+      "name": "Website Policy (rev. 01-14-19).pdf",
+      "extension": ".pdf",
+      "size": 532300,
+      "lastModified": "Mon, 21 Jan 2019 14:26:18 GMT",
+      "contentType": "application/pdf",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Documents/Governing%20Documents/Social%20Media%20Policy%20(rev.%2009-10-18).pdf",
+      "path": "/resources/Documents/Governing%20Documents/Social%20Media%20Policy%20(rev.%2009-10-18).pdf",
+      "name": "Social Media Policy (rev. 09-10-18).pdf",
+      "extension": ".pdf",
+      "size": 819528,
+      "lastModified": "Fri, 14 Sep 2018 14:43:17 GMT",
+      "contentType": "application/pdf",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Documents/Governing%20Documents/Data%20Privacy%20Policy.pdf",
+      "path": "/resources/Documents/Governing%20Documents/Data%20Privacy%20Policy.pdf",
+      "name": "Data Privacy Policy.pdf",
+      "extension": ".pdf",
+      "size": 59948,
+      "lastModified": "Mon, 29 Jul 2024 11:13:27 GMT",
+      "contentType": "application/pdf",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Documents/Job%20Descriptions/President%20(rev.%2012-10-18).pdf",
+      "path": "/resources/Documents/Job%20Descriptions/President%20(rev.%2012-10-18).pdf",
+      "name": "President (rev. 12-10-18).pdf",
+      "extension": ".pdf",
+      "size": 280280,
+      "lastModified": "Wed, 12 Dec 2018 21:58:38 GMT",
+      "contentType": "application/pdf",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Documents/Job%20Descriptions/Activities.pdf",
+      "path": "/resources/Documents/Job%20Descriptions/Activities.pdf",
+      "name": "Activities.pdf",
+      "extension": ".pdf",
+      "size": 49751,
+      "lastModified": "Mon, 29 Aug 2022 15:16:40 GMT",
+      "contentType": "application/pdf",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Documents/Job%20Descriptions/Membership%20(rev.%2012-10-18).pdf",
+      "path": "/resources/Documents/Job%20Descriptions/Membership%20(rev.%2012-10-18).pdf",
+      "name": "Membership (rev. 12-10-18).pdf",
+      "extension": ".pdf",
+      "size": 381981,
+      "lastModified": "Wed, 12 Dec 2018 21:58:38 GMT",
+      "contentType": "application/pdf",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Documents/Job%20Descriptions/Publicity%20and%20Marketing%20(rev.%2012-10-18).pdf",
+      "path": "/resources/Documents/Job%20Descriptions/Publicity%20and%20Marketing%20(rev.%2012-10-18).pdf",
+      "name": "Publicity and Marketing (rev. 12-10-18).pdf",
+      "extension": ".pdf",
+      "size": 119638,
+      "lastModified": "Wed, 12 Dec 2018 21:58:36 GMT",
+      "contentType": "application/pdf",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Documents/Job%20Descriptions/Communications%20(rev.%2012-10-18).pdf",
+      "path": "/resources/Documents/Job%20Descriptions/Communications%20(rev.%2012-10-18).pdf",
+      "name": "Communications (rev. 12-10-18).pdf",
+      "extension": ".pdf",
+      "size": 114774,
+      "lastModified": "Wed, 12 Dec 2018 21:58:39 GMT",
+      "contentType": "application/pdf",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Documents/Job%20Descriptions/Technology%20(rev.%2012-10-18).pdf",
+      "path": "/resources/Documents/Job%20Descriptions/Technology%20(rev.%2012-10-18).pdf",
+      "name": "Technology (rev. 12-10-18).pdf",
+      "extension": ".pdf",
+      "size": 127678,
+      "lastModified": "Mon, 17 Dec 2018 21:52:09 GMT",
+      "contentType": "application/pdf",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Documents/Job%20Descriptions/Secretary%20(rev.%2012-10-18).pdf",
+      "path": "/resources/Documents/Job%20Descriptions/Secretary%20(rev.%2012-10-18).pdf",
+      "name": "Secretary (rev. 12-10-18).pdf",
+      "extension": ".pdf",
+      "size": 109550,
+      "lastModified": "Mon, 17 Dec 2018 21:52:10 GMT",
+      "contentType": "application/pdf",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Documents/Job%20Descriptions/Treasurer%20(rev.%2012-10-18).pdf",
+      "path": "/resources/Documents/Job%20Descriptions/Treasurer%20(rev.%2012-10-18).pdf",
+      "name": "Treasurer (rev. 12-10-18).pdf",
+      "extension": ".pdf",
+      "size": 213102,
+      "lastModified": "Wed, 12 Dec 2018 21:58:36 GMT",
+      "contentType": "application/pdf",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Documents/Job%20Descriptions/Job%20Description-%20Member%20at%20Large.pdf",
+      "path": "/resources/Documents/Job%20Descriptions/Job%20Description-%20Member%20at%20Large.pdf",
+      "name": "Job Description- Member at Large.pdf",
+      "extension": ".pdf",
+      "size": 18224,
+      "lastModified": "Fri, 28 Jul 2023 15:43:14 GMT",
+      "contentType": "application/pdf",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Documents/Job%20Descriptions/House%20Registar%20(rev.%2012-10-18).pdf",
+      "path": "/resources/Documents/Job%20Descriptions/House%20Registar%20(rev.%2012-10-18).pdf",
+      "name": "House Registar (rev. 12-10-18).pdf",
+      "extension": ".pdf",
+      "size": 20179,
+      "lastModified": "Wed, 12 Dec 2018 21:58:38 GMT",
+      "contentType": "application/pdf",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Documents/Job%20Descriptions/Parliamentarian%20(rev.%2012-10-18).pdf",
+      "path": "/resources/Documents/Job%20Descriptions/Parliamentarian%20(rev.%2012-10-18).pdf",
+      "name": "Parliamentarian (rev. 12-10-18).pdf",
+      "extension": ".pdf",
+      "size": 294449,
+      "lastModified": "Wed, 12 Dec 2018 21:58:38 GMT",
+      "contentType": "application/pdf",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Documents/Job%20Descriptions/Alumni%20Liaison%20(rev%204-17-19).pdf",
+      "path": "/resources/Documents/Job%20Descriptions/Alumni%20Liaison%20(rev%204-17-19).pdf",
+      "name": "Alumni Liaison (rev 4-17-19).pdf",
+      "extension": ".pdf",
+      "size": 42452,
+      "lastModified": "Wed, 17 Apr 2019 12:17:38 GMT",
+      "contentType": "application/pdf",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Documents/Job%20Descriptions/YP%20Liaison%20(4-17-19).pdf",
+      "path": "/resources/Documents/Job%20Descriptions/YP%20Liaison%20(4-17-19).pdf",
+      "name": "YP Liaison (4-17-19).pdf",
+      "extension": ".pdf",
+      "size": 146842,
+      "lastModified": "Wed, 17 Apr 2019 12:15:56 GMT",
+      "contentType": "application/pdf",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Documents/Governing%20Documents/Newcomers%20Club%20Event%20Waiver%20(rev.%2001-14-19).pdf",
+      "path": "/resources/Documents/Governing%20Documents/Newcomers%20Club%20Event%20Waiver%20(rev.%2001-14-19).pdf",
+      "name": "Newcomers Club Event Waiver (rev. 01-14-19).pdf",
+      "extension": ".pdf",
+      "size": 100518,
+      "lastModified": "Mon, 21 Jan 2019 14:26:16 GMT",
+      "contentType": "application/pdf",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Documents/Member%20Information/SBNC_New%20Member%20Orientation_Sep2024.pdf",
+      "path": "/resources/Documents/Member%20Information/SBNC_New%20Member%20Orientation_Sep2024.pdf",
+      "name": "SBNC_New Member Orientation_Sep2024.pdf",
+      "extension": ".pdf",
+      "size": 1869843,
+      "lastModified": "Mon, 27 Jan 2025 09:06:01 GMT",
+      "contentType": "application/pdf",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Documents/Governing%20Documents/Policies%20and%20Procedures%20%20(rev%202023.07.17).pdf",
+      "path": "/resources/Documents/Governing%20Documents/Policies%20and%20Procedures%20%20(rev%202023.07.17).pdf",
+      "name": "Policies and Procedures  (rev 2023.07.17).pdf",
+      "extension": ".pdf",
+      "size": 494138,
+      "lastModified": "Sun, 23 Jul 2023 16:36:22 GMT",
+      "contentType": "application/pdf",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://sbnewcomers.org/resources/Documents/Training%20Guides/Committee%20Chair%20Guidelines%203.20.22.pdf",
+      "path": "/resources/Documents/Training%20Guides/Committee%20Chair%20Guidelines%203.20.22.pdf",
+      "name": "Committee Chair Guidelines 3.20.22.pdf",
+      "extension": ".pdf",
+      "size": 385452,
+      "lastModified": "Thu, 30 Jun 2022 12:45:40 GMT",
+      "contentType": "application/pdf",
+      "discoveredFrom": "page-crawl",
+      "status": "downloaded"
+    }
+  ],
+  "statistics": {
+    "totalFolders": 42,
+    "accessibleFolders": 11,
+    "totalFiles": 125,
+    "totalSize": 67852789,
+    "byExtension": {
+      ".css": {
+        "count": 1,
+        "size": 23998
+      },
+      ".pdf": {
+        "count": 63,
+        "size": 19516545
+      },
+      ".jpeg": {
+        "count": 36,
+        "size": 5478687
+      },
+      ".jpg": {
+        "count": 22,
+        "size": 30423334
+      },
+      ".pptx": {
+        "count": 1,
+        "size": 12167343
+      },
+      ".docx": {
+        "count": 2,
+        "size": 242882
+      }
+    },
+    "byYear": {
+      "2018": 10,
+      "2019": 4,
+      "2020": 24,
+      "2021": 5,
+      "2022": 3,
+      "2023": 6,
+      "2024": 29,
+      "2025": 44
+    },
+    "oldestFile": {
+      "url": "https://sbnewcomers.org/resources/Documents/Governing%20Documents/Social%20Media%20Policy%20(rev.%2009-10-18).pdf",
+      "date": "Fri, 14 Sep 2018 14:43:17 GMT"
+    },
+    "newestFile": {
+      "url": "https://sbnewcomers.org/resources/Pictures/Committee%20Photos/XCommittee%20Webpage%20Slideshow/Slide30.jpeg",
+      "date": "Sun, 05 Oct 2025 14:26:10 GMT"
+    }
+  },
+  "errors": []
+}

@@ -1,9 +1,9 @@
 # Dependencies
 node_modules/
 
-# Output
-wa-files-report-*.json
-downloads/
+# Output (kept in repo as backup of WA files)
+# wa-files-report-*.json
+# downloads/
 
 # Credentials
 cookies.txt

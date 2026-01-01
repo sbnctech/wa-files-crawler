@@ -1,0 +1,938 @@
+/**** HOME ****/
+
+/**** FULL WIDTH IMAGE ****/
+body#PAGEID_1765831 .zoneHeader1Outer {
+    background-color: #E2F5F5;
+    background-image: url(/resources/Theme/SB-Newcomers-Home%20banner-with-text.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position-y: top!important;
+}
+
+/**** FIXED WIDTH IMAGE ****/
+body#PAGEID_1765857 .zoneHeader1Outer {
+    background-color: #E2F2F0;
+    background-image: none;
+    background-position-y: top!important;
+    /* background-repeat: no-repeat; */
+}
+
+/**** BUTTONS ****/
+
+a.stylizedButton {
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition:    all 0.3s ease-in-out;
+    -o-transition:      all 0.3s ease-in-out;
+    -ms-transition:     all 0.3s ease-in-out;
+    transition:         all 0.3s ease-in-out;
+}
+
+a.stylizedButton.buttonStyle004 {
+    background: #fff;
+    border: 2px solid #2392C6;
+    text-align: left;
+    padding-right: 80px;
+    background: url(/resources/Pictures/Icons/button-arrow-right-blue.svg);
+    background-size: 26px;
+    background-repeat: no-repeat;
+    background-position: right 15px center;
+    padding: 18px 80px 18px 20px;
+}
+
+a.stylizedButton.buttonStyle004:hover {
+    background: #fff;
+    border: 2px solid #000000;
+    text-align: left;
+    padding-right: 80px;
+    background: url(/resources/Pictures/Icons/button-arrow-right-black.svg);
+    background-size: 26px;
+    background-repeat: no-repeat;
+    background-position: right 15px center;
+    padding: 18px 80px 18px 25px;
+}
+
+.arrowButton a.stylizedButton {
+    width: 100%;
+    -webkit-box-sizing: border-box;
+    -mod-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.wideButton a.stylizedButton {
+    width: 100%;
+    -webkit-box-sizing: border-box;
+    -mod-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+
+/**** MENU - MOBILE ****/
+
+.WaGadgetMobilePanel .mobilePanel {
+    position: relative;
+    background: #000;
+    color: white;
+}
+
+.WaGadgetMobilePanel .mobilePanel .buttonMenu,
+.WaGadgetMobilePanel .mobilePanel .buttonLogin {
+text-indent: 0; /* resets WA styling that hides the existing text */
+line-height: 50px; /* vertically center text to height of bar */
+}
+
+.WaGadgetMobilePanel .mobilePanel .buttonMenu {
+padding-left: 50px; /* pushes menu text to right of menu button */
+padding-right: 10px; /* adds extra padding to right of menu text for useability */
+}
+
+.WaGadgetMobilePanel .mobilePanel .buttonLogin {
+padding-right: 45px; /* pushes login text to left of login button */
+padding-left: 10px; /* adds extra padding to left of login text for useability */
+}
+
+.WaGadgetMobilePanel .mobilePanel .buttonLogin:before {
+left: auto; /* resets WA styling that puts login button on left of existing text */
+right: 0px; /* puts login button on right of existing text */
+}
+
+.WaGadgetMobilePanel .mobilePanel .buttonAdmin {
+right: 0px; /* moves admin button to right so user info can expand to left */
+}
+
+.WaGadgetMobilePanel .mobilePanel .buttonLogin.logged {
+right: 50px; /* moves user info button to left of admin button when logged in */
+width: auto; /* allows user info button to grow to fit user name when logged in */
+}
+
+.WaGadgetMobilePanel .mobilePanel .mobilePanelButton {
+    color: #fff;
+}
+
+
+/**** LOGIN ****/
+
+.WaGadgetLoginButton .loginBoxLinkContainer .loginBoxLinkButton {
+    font: normal 16px/normal PT Sans;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.WaGadgetLoginButton .loginBoxLinkContainer .loginBoxLinkButton:before {
+    color: #53BBAD!important;
+    font: normal 14px/normal WA-theme-icons;
+    height: 14px;
+    width: 14px;
+}
+
+.WaGadgetLoginButton .loginBoxLapsedMembership, .WaGadgetLoginButton .loginBoxProfileLink, .WaGadgetLoginButton a.loginBoxChangePassword, .WaGadgetLoginButton .loginBoxProfileLink a, .WaGadgetLoginButton a.loginBoxLogout {
+    margin: 4px 5px;
+    font: normal 16px/normal PT Sans;
+}
+
+/**** MAIN MENU ****/
+
+/** First Level **/
+
+.WaGadgetMenuHorizontal.menuStyle003 .menuBackground {
+    border-top: 1px solid #53BBCB;
+}
+
+.WaGadgetMenuHorizontal.menuStyle003 .menuInner {
+    border-bottom: none;
+    color: #033333;
+}
+
+.WaGadgetMenuHorizontal .menuInner ul.firstLevel {
+    margin: 0 auto;
+    padding: 0;
+}
+
+.WaGadgetMenuHorizontal .menuInner ul.firstLevel > li > .item > a {
+    font-size: 16px;
+    padding-right: 24px;
+    vertical-align: -webkit-baseline-middle;
+    padding-top: 18px;
+    padding-bottom: 14px;
+}
+
+.WaGadgetMenuHorizontal .menuInner ul.firstLevel > li.dir > .item > a:after {
+    display: none;
+}
+
+.WaGadgetMenuHorizontal.menuStyle003 .menuInner ul.firstLevel > li.sel > .item > a {
+    color: #53bbad;
+}
+
+.WaGadgetMenuHorizontal.menuStyle003 .menuInner ul.firstLevel > li.phantom > .item > a span {
+    padding: 0;
+}
+
+
+/** Second Level **/
+
+.WaGadgetMenuHorizontal .menuInner ul ul  {
+padding: 10px 0;
+}
+
+.WaGadgetMenuHorizontal .menuInner ul ul li > .item > a {
+padding: 6px 20px 6px 16px;
+font: normal 16px/20px;
+}
+
+/**** VERTICAL MENU ****/
+
+.WaGadgetMenuVertical .menuInner ul.firstLevel {
+margin: 0;
+padding: 0;
+}
+
+.WaGadgetMenuVertical.menuStyle001 .menuInner {
+    border-left: none;
+    border-right: none;
+    background-color: #FFFFFF;
+}
+
+.WaGadgetMenuVertical .menuInner ul.firstLevel > li {
+    display: block;
+    margin: 0 0 2px 0;
+    padding: 0;
+    position: relative;
+    background-color: #E3F2F0;
+}
+
+
+.WaGadgetMenuVertical .menuInner ul.firstLevel > li > .item > a {
+    color: #000;
+    font: normal 16px/normal Arial, Helvetica, sans-serif;
+    text-transform: none;
+}
+
+.WaGadgetMenuHorizontal.menuStyle003 .menuInner ul.firstLevel>li>.item>a span {
+    padding: 5px 0;
+}
+
+.WaGadgetMenuVertical .menuInner ul.firstLevel > li.sel > .item > a > span:before {
+    display:none;
+}
+
+.WaGadgetMenuVertical .menuInner ul.firstLevel > li.sel > .item > a {
+    color: #53bbad;
+}
+
+ 
+ 
+/* RESET MISC. ITEMS -------------------------------------- */
+ 
+* {margin:0;padding:0;}
+
+body {
+background-image: none;
+}
+
+/*
+.zoneHeader1Outer
+{
+	background: url('/resources/Pictures/theme/background-santa-barbara-sky.jpg') no-repeat center bottom;
+} */
+
+.zoneHeader1Outer {
+    background-repeat: no-repeat;
+    background-position-y: bottom;
+    background-size: cover;
+}
+
+.WaGadgetLoginButton .loginButtonBackground {
+  background: rgba(0, 0, 0, 0.9);
+}
+
+
+/**** HEADINGS ****/
+h1, h2, h3, h4 {
+font-family: 'Raleway', sans-serif;
+font-weight: 400;
+}
+
+.contStylePageTitle {
+font-family: 'Raleway', sans-serif;
+font-weight: 300;
+color: #ffffff;
+font-size: 2.5em;
+text-align: center;
+text-transform: uppercase;
+margin-bottom: 40px;
+}
+
+H1.titlePage {
+font-family: 'Raleway', sans-serif;
+font-weight: 300;
+color: #ffffff;
+font-size: 2.5em;
+text-align: center;
+text-transform: uppercase;
+letter-spacing: normal;
+}
+
+
+/**** LAYOUT ****/
+
+#PAGEID_1765337 #id_1EuzPD4 div.menuInner ul.firstLevel {
+	display: none;
+}
+
+/**** Hide reference to events Committee Directories ****/
+#PAGEID_1765678 #id_VxpThVv  .memberDirectoryColumn4{color :white; background-color: white;}
+
+#PAGEID_1755492 #id_3T5iq1f  .memberDirectoryColumn4 {
+color: white; background-color: white;
+}
+
+/**** GADGETS ****/
+
+/** STYLE 1 **/
+
+.gadgetStyle001 .gadgetStyleBody,
+.gadgetStyle001.gadgetStyleBody
+{
+-webkit-border-radius: 6px;
+-moz-border-radius: 6px;
+border-radius: 6px;
+}
+
+.WaGadgetUpcomingEvents.gadgetStyle001 ul li .date {
+color: #5f7a87;
+}
+
+.WaGadgetUpcomingEvents.gadgetStyle001 ul li:after {
+  border-top: 1px solid #ffffff;
+}
+
+
+/** STYLE 2 **/
+
+.gadgetStyle002 .gadgetStyleTitle {
+-webkit-border-radius: 6px;
+-moz-border-radius: 6px;
+border-radius: 6px;
+}
+
+
+/** STYLE 3 **/
+
+.gadgetStyle003 .gadgetStyleTitle {
+-webkit-border-top-left-radius: 6px;
+-webkit-border-top-right-radius: 6px;
+-moz-border-radius-topleft: 6px;
+-moz-border-radius-topright: 6px;
+border-top-left-radius: 6px;
+border-top-right-radius: 6px;
+}
+
+.gadgetStyle003 .gadgetStyleBody, .gadgetStyle003.gadgetStyleBody {
+-webkit-border-bottom-right-radius: 6px;
+-webkit-border-bottom-left-radius: 6px;
+-moz-border-radius-bottomright: 6px;
+-moz-border-radius-bottomleft: 6px;
+border-bottom-right-radius: 6px;
+border-bottom-left-radius: 6px;
+}
+
+.WaGadgetUpcomingEvents.gadgetStyle003 ul li .date {
+color: #bdf0ef;
+}
+
+.WaGadgetRecentBlogPosts ul li:after {
+content: "";
+position: absolute;
+bottom: -15px;
+width: 100%;
+height: 0px;
+border-top: 1px solid #ecf1f3;
+}
+
+.gadgetStyleNone .gadgetStyleTitle h4, .gadgetStyle001 .gadgetStyleTitle h4, .gadgetStyle002 .gadgetStyleTitle h4, .gadgetStyle003 .gadgetStyleTitle h4 {
+font-family: 'Raleway', sans-serif;
+font-weight: 400;
+}
+
+.WaGadgetRecentBlogPosts.gadgetStyle001 ul li:after {
+  border-top: 1px solid #ffffff;
+}
+
+
+/**** TABLES ****/
+
+.genericListTable thead th, .membersTable thead th {
+padding: 12px 20px 12px 0px;
+font-family: inherit;
+height: auto;
+font-weight: normal;
+font-size: 16px;
+line-height: 1em;
+background-color: #01cfd5;
+color: white;
+}
+
+.donateForm {
+padding: 40px;
+background-color:#ecf1f3;
+}
+
+
+/**** LISTS ****/
+
+ul.customList1 {
+    font-family: PT Sans, sans-serif;
+    font-size: 100%;
+}
+
+ul.customList1 {
+	padding: 0;
+	margin: 0;
+}
+
+ul.customList1 li {
+	padding: 7px 20px;
+	margin: 0;
+	list-style-type: none;
+	border-bottom: 1px solid #f7f7f7;
+	background: url(/resources/Pictures/theme/arrow-forward-16.png) no-repeat 0 11px;
+}
+
+
+/**** BLOG ****/
+
+.WaGadgetBlog .boxBodyInfoOuterContainer h5 .postedByLabel, .WaGadgetBlog .boxBodyInfoOuterContainer h5 .postedByLink {
+float: left;
+visibility: hidden;
+font-family: inherit;
+font-size: 100%;
+color: #626262;
+}
+
+.WaGadgetBlog .boxBodyInfoOuterContainer h5 .postedOn {
+float: left;
+visibility: visible;
+padding: 1px 0 1px 0;
+min-height: 18px;
+font-family: inherit;
+font-size: 14px;
+line-height: 1.125em;
+color: #959494;
+background-image: none;
+}
+
+.WaGadgetBlog ul.boxesList li.boxesListItem .boxHeaderOuterContainer {
+padding: 0px 0px 10px 0px;
+background: none;
+}
+
+.WaGadgetBlog .boxBodyInfoOuterContainer {
+padding: 0 0px 8px 0px;
+margin: 0 0 15px 0;
+background: none;
+border-bottom: 1px solid #cececf;
+}
+
+.WaGadgetRecentBlogPosts .gadgetStyleBody ul li.last {
+    margin: 0;
+    padding-bottom: 20px;
+}
+
+
+/**** MISC ****/
+
+#idFooterPoweredByWA {
+display: inline;
+background: none;
+padding-top:15px;
+font: normal 0.875em/normal Verdana, Arial, Helvetica, sans-serif;
+color: #646464;
+}
+
+.footerAddress {
+color:#ffffff;
+font-size:14px;
+line-height:24px;
+}
+
+.WaGadgetSocialProfile ul {
+margin: 0;
+padding: 0;
+list-style: none;
+}
+
+.sponsorLogos {
+border-top: 1px solid #ecf1f3;
+}
+
+#idFooterPoweredByContainer {
+display:none;
+}
+
+div + h1, div + h2, div + h3, div + h4, div + h5, div + h6 {
+margin-top: 30px;
+}
+
+p + h1, p + h2,p + h3, p + h4, p + h5, p + h6 {
+margin-top: 25px;
+}
+/*
+.WaGadgetEventsStateCalendar .pageTitleOuterContainer #idEventViewSwitcher .pageViewSwitcherContainer a {
+display: none;
+}
+*/
+
+#FunctionalBlock1_ctl00_memberApplicationMain_ctl00_stepTemplate_levelListView_membershipLevelsRepeater_ctl00_levelView_renewal, #FunctionalBlock1_ctl00_memberApplicationMain_ctl00_stepTemplate_levelListView_membershipLevelsRepeater_ctl01_levelView_renewal {
+	display: none;
+}
+
+
+#FunctionalBlock1_ctl00_memberApplicationMain_ctl00_stepTemplate_levelListView_membershipLevelsRepeater_ctl00_levelView_recurring, #FunctionalBlock1_ctl00_memberApplicationMain_ctl00_stepTemplate_levelListView_membershipLevelsRepeater_ctl01_levelView_recurring {
+	display: none;
+}
+
+#FunctionalBlock1_ctl00_memberApplicationMain_ctl00_stepTemplate_levelListView_membershipLevelsRepeater_ctl00_membershipLevelRadioLabel span.textLine.extraInfo.typeInstruction, #FunctionalBlock1_ctl00_memberApplicationMain_ctl00_stepTemplate_levelListView_membershipLevelsRepeater_ctl01_levelView_description {
+font-size: 16px;
+}
+
+#FunctionalBlock1_ctl00_memberApplicationMain_ctl00_stepTemplate_levelListView_membershipLevelsRepeater_ctl00_membershipLevelRadioLabel span.textLine, #FunctionalBlock1_ctl00_memberApplicationMain_ctl00_stepTemplate_levelListView_membershipLevelsRepeater_ctl01_membershipLevelRadioLabel span.textLine {
+line-height: 20px;
+}
+.fieldSubContainer .fieldBody .fieldItem span.label {
+font-size: 16px;
+}
+
+.fieldSubContainer .fieldBody .fieldItem span.label .typeInstruction .levelDescription {
+font-size: 16px;
+}
+#idMembershipLevelRadioGroupContainer div.fieldSubContainer.radioGroupContainer div.fieldBody div.groupBodyVertical div.fieldItem {
+margin-bottom: 25px;
+}
+ .borderPad30 {
+border:1px solid #000;
+padding:30px;
+display: block;
+}
+
+#PAGEID_1765342 .zoneContent {
+
+}
+
+#PAGEID_1765342 .zoneHeader3 {
+border-bottom: 15px solid #e3f2f0;
+}
+
+.WaGadgetSiteSearch .searchBoxField {
+padding: 8px 4px 8px 2em;
+border: 1px solid darkgray;
+background: white;
+font-size: inherit;
+color: black;
+width: 220px;
+max-width: 100%;
+}
+
+#homeFeature-1 div.gadgetStyleBody.gadgetContentEditableArea ul li a {
+	background: url(/resources/Pictures/theme/bullet-arrow-green.png) no-repeat 4px;
+	padding-left: 20px;
+}
+
+#homeFeature-3 div.gadgetStyleBody.gadgetContentEditableArea ul li a {
+	background: url(/resources/Pictures/theme/bullet-arrow-purple.png) no-repeat 4px;
+	padding-left: 20px;
+}
+
+#memberNav ul.firstLevel > li > .item > a {
+color: #1A1A1A;
+font-size: 16px;
+padding-left: 15px;
+padding-right: 15px;
+}
+
+
+.zoneContent .container_12 > DIV, .zoneSidebarLeft .rightBaseBgInner, .zoneSidebarRight .leftBaseBgInner, .zoneEqualColumn .rightBaseBgInner {
+background-color: transparent;
+}
+
+.zoneFooter3 {
+background-color: #00D1DB;
+background-repeat: no-repeat;
+margin-bottom: 40px;
+}
+
+/**** EVENT DETAIL ****/
+
+.WaGadgetEvents .boxOuterContainer .boxBodyOuterContainer .boxBodyContainer .boxBodyContentOuterContainer .boxBodyContentContainer div.inner {
+    line-height: 1.5em;
+}
+
+
+/******************************************************************/
+/**** EVENT CALENDAR ****/
+/******************************************************************/
+
+td.EventListCalendarItemSelected {
+  background-color: #FFFFA5; /* RK: post-it yellow background for today */
+}
+/* RK: light gray background for past days */
+/*
+td.EventListCalendarItemInactive {
+  background-color: #ccc; 
+}*/
+
+.WaGadgetEvents.WaGadgetEventsStateCalendar .EventListCalendar td > div:hover .eventTime {
+    color: #FFF;
+}
+
+.WaGadgetEvents.WaGadgetEventsStateCalendar .EventListCalendar.viewTypeWeek td div .eventTime {
+    color: #1a1a1a;
+}
+
+.WaGadgetEventsStateCalendar .pageTitleOuterContainer #idEventViewSwitcher .pageViewSwitcherContainer a {
+    margin-left: 7px;
+    background: #ff0000 url(/resources/Theme/icon-calendar-list.svg) no-repeat;
+    background-size: 20px;
+    background-position: left 12px center;
+    padding: 8px 15px 8px 45px;
+    color: #fff;
+    border-radius: 4px;
+    font-size: 18px;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.WaGadgetEvents .pageTitleOuterContainer .pageViewSwitcherOuterContainer .pageViewSwitcherContainer a {
+    margin-left: 7px;
+    background: #ff0000 url("/resources/Theme/icon-calendar.svg") no-repeat;
+    background-size: 16px;
+    background-position: left 10px center;
+    padding: 8px 15px 8px 40px;
+    color: #fff;
+    border-radius: 4px;
+    font-size: 18px;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.WaGadgetEvents .pageTitleOuterContainer .pageViewSwitcherOuterContainer .pageViewSwitcherContainer a:hover, .WaGadgetEventsStateCalendar .pageTitleOuterContainer #idEventViewSwitcher .pageViewSwitcherContainer a:hover {
+    color: rgba(255,255,255,0.8);
+}
+
+/******************************************************************/
+/**** PROFILE ****/
+/******************************************************************/
+
+span#FunctionalBlock1_ctl00_ctl00_Membership_viewExpirationDate {
+display: none;
+}
+
+span#FunctionalBlock1_ctl00_ctl00_Membership_renewalLimit {
+display: none;
+}
+
+span#FunctionalBlock1_ctl00_ctl00_Membership_titleExpirationDate {
+display: none;
+}
+
+span#FunctionalBlock1_ctl00_ctl00_Membership_sharedMembershipLevelView_price {
+display: none;
+}
+
+span#FunctionalBlock1_ctl00_ctl00_Membership_sharedMembershipLevelView_recurring {
+display: none;
+}
+
+span#FunctionalBlock1_ctl00_ctl00_Membership_sharedMembershipLevelView_renewal {
+display: none;
+}
+
+input#FunctionalBlock1_ctl00_ctl00_Membership_levelUpgradeButton {
+display: none;
+}
+div#idExpirationDateContainerHolder {
+display: none;
+}
+
+.captionOuterContainer {
+padding: 10px 0 10px 0;
+margin: 30px 0 30px 0;
+background: #ffffff;
+border: 1px solid #00D1DB;
+}
+
+.captionOuterContainer .captionContainer .fieldBody h4 {
+    font-size: 30px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: normal;
+    color: #1a1a1a;
+    text-align: center;
+}
+
+
+/**** MEMBER APPLICATION ****/
+
+span#FunctionalBlock1_ctl00_memberApplicationMain_ctl00_stepTemplate_selectedLevel_renewal {
+display: none;
+}
+
+span#FunctionalBlock1_ctl00_memberApplicationMain_ctl00_stepTemplate_selectedLevel_recurring {
+display: none;
+}
+
+
+/**** HOME FEATURES ****/
+
+#homeFeature-1 div.gadgetStyleBody.gadgetContentEditableArea ul, #homeFeature-2 div.gadgetStyleBody.gadgetContentEditableArea ul, #homeFeature-3 div.gadgetStyleBody.gadgetContentEditableArea ul {
+	margin: 0 0 0 -5px;
+
+}
+
+#homeFeature-1 div.gadgetStyleBody.gadgetContentEditableArea ul li, #homeFeature-2 div.gadgetStyleBody.gadgetContentEditableArea ul li, #homeFeature-3 div.gadgetStyleBody.gadgetContentEditableArea ul li {
+padding: 0 0 6px 0;
+list-style: none;
+
+}
+
+#homeFeature-1 div.gadgetStyleBody.gadgetContentEditableArea ul li:last, #homeFeature-2 div.gadgetStyleBody.gadgetContentEditableArea ul li:last, #homeFeature-3 div.gadgetStyleBody.gadgetContentEditableArea ul li:last {
+	padding: 0;
+}
+
+#homeFeature-1 div.gadgetStyleBody.gadgetContentEditableArea a {
+    color: #eee;
+    font-family: PT Sans, sans-serif;
+    font-size: 18px;
+}
+#homeFeature-1 div.gadgetStyleBody.gadgetContentEditableArea a:hover {
+    color: #6DD5C7;
+}
+
+#homeFeature-2 div.gadgetStyleBody.gadgetContentEditableArea a {
+    color: #eee;
+    font-family: PT Sans, sans-serif;
+    font-size: 18px;
+}
+#homeFeature-2 div.gadgetStyleBody.gadgetContentEditableArea a:hover {
+    color: #3DACE0;
+}
+
+#homeFeature-3 div.gadgetStyleBody.gadgetContentEditableArea a {
+    color: #eee;
+    font-family: PT Sans, sans-serif;
+    font-size: 18px;
+}
+#homeFeature-3 div.gadgetStyleBody.gadgetContentEditableArea a:hover {
+    color: #848BCB;
+}
+
+/***********************************************************/
+/**** HOME FEATURE BUTTONS ****/
+/***********************************************************/
+
+.homeFeatureButton a.stylizedButton.buttonStyle001, .homeFeatureButton a.stylizedButton.buttonStyle002, .homeFeatureButton a.stylizedButton.buttonStyle003 {
+position: relative;
+display: inline-block;
+padding: 20px 15px;
+width: 100%;
+margin: 0;
+-webkit-box-sizing: border-box;
+-moz-box-sizing: border-box;
+box-sizing: border-box;
+-webkit-border-bottom-right-radius: 0px;
+-webkit-border-bottom-left-radius: 0px;
+-moz-border-radius-bottomright: 0px;
+-moz-border-radius-bottomleft: 0px;
+border-bottom-right-radius: 0px;
+border-bottom-left-radius: 0px;
+font-family: PT Sans, sans-serif;
+font-weight: 300;
+font-size: 20px;
+color: white;
+white-space: normal;
+text-decoration: none;
+text-align: center;
+}
+
+.homeFeatureButton a.stylizedButton.buttonStyle001, .homeFeatureButton a.stylizedButton.buttonStyle002, .homeFeatureButton a.stylizedButton.buttonStyle003, .homeFeatureButton a.stylizedButton.buttonStyle004 {
+border-radius:0px;
+}
+
+
+.HomeTitle h1 {
+    font-size: 3.5rem;
+    font-weight: 300;
+}
+
+.titlePage {
+    font: normal 60px/normal 'Raleway', Roboto Thin, sans-serif;
+    letter-spacing: .2em;
+    color: white;
+    margin: 0.6rem 0;
+}
+
+.IconLeft {
+    background-size: 60px;
+    padding-left: 90px;
+}
+
+a.stylizedButton.buttonStyle001, a.stylizedButton.buttonStyle002, a.stylizedButton.buttonStyle003, a.stylizedButton.buttonStyle004 {
+    font-family: PT Sans, sans-serif;
+    font-size: 18px;
+}
+
+/***********************************************************/
+/**** HEADER ELEMENTS ****/
+/***********************************************************/
+
+.HeaderLogo,
+.HeaderName,
+.HeaderButton,
+.HeaderSearch {
+    padding: 20px 0;
+}
+
+.HeaderSearch,
+.HeaderButton {
+    padding: 30px 0 20px 0;
+}
+
+/***********************************************************/
+/**** SLIDERS ****/
+/***********************************************************/
+
+.RemoveThumbnails .camera_wrap {
+    margin-bottom: 0!important;
+}
+
+.RemoveThumbnails .camera_thumbs {
+    display: none;
+}
+
+/*** END ***/
+
+
+/***********************************************************/
+/**** TABLET SPECIFIC ****/
+/***********************************************************/
+
+@media only screen and (max-width:1200px)
+{
+.Home-Spacer {
+    height: 400px!important;
+    }
+}
+
+
+/***********************************************************/
+/**** LARGE MOBILE ****/
+/***********************************************************/
+
+@media only screen and (max-width:1200px)
+{
+.Home-Spacer {
+    height: 300px!important;
+    }
+
+.zoneHeader1Outer {
+    background-repeat: no-repeat;
+    background-position-y: bottom;
+    background-size: initial;
+    background-position-x: left; 
+    }
+}
+
+
+/***********************************************************/
+/**** SMALL MOBILE ****/
+/***********************************************************/
+
+@media only screen and (max-width:600px)
+{
+
+.Home-Spacer {
+    height: 200px!important;
+    }
+
+.WaGadgetEvents.WaGadgetEventsStateDetails .boxOuterContainer .boxBodyOuterContainer .boxBodyContainer .boxBodyInfoOuterContainer .boxBodyInfoContainer {
+    padding: 0;
+    padding-top: 35px;
+    }
+
+.titlePage, h1.titlePage {
+    font-family: 'Raleway', Roboto Thin, sans-serif!important;
+    margin: 0.6rem 0;
+    font-weight: 300!important;
+    }
+
+.HeaderName p,
+.HeaderName img {
+    text-align:center!important;
+    }
+
+.IconLeft {
+    background-size: 40px;
+    padding-left: 60px;
+    }
+
+.HeaderLogo,
+.HeaderName {
+    padding-bottom: 0;
+    }
+
+.HeaderButton,
+.HeaderButton p,
+.HeaderSearch {
+    text-align: center!important;
+    padding: 10px 0 20px 0!important;
+    }
+
+.zoneHeader1Outer {
+    background-repeat: no-repeat;
+    background-position-y: bottom;
+    background-size: initial;
+    background-position-x: left; 
+    }
+
+}
+
+/**** Editing CSS to hide event details on public upcoming events page ****/
+
+#public-upcoming .date {
+    display: none;
+}
+
+#public-upcoming .location {
+    display: none;
+}
+
+#public-upcoming a {
+    pointer-events: none;
+    cursor: default;
+    color: inherit;
+    text-decoration: none;
+}
+
+.upcoming-events {
+    background-color: lightblue; /* Initial background color */
+    transition: background-color 0.3s; /* Smooth transition */
+    padding: 20px;
+    text-align: center;
+}
+
+.upcoming-events:hover {
+    background-color: #4192C6; /* Background color on hover */
+    color: #fff;
+}
+
+.WaGadgetUpcomingEvents .gadgetStyleBody ul li {
+    text-align: left !important;
+}
+
+.WaGadgetUpcomingEvents .gadgetStyleBody ul li .title::before {
+    content: '•'; /* This is the bullet character */
+    margin-right: 5px; /* Space between bullet and text */
+}
+
+/*Hide address/location on Events page */
+.WaGadgetUpcomingEvents.gadgetStyle001 ul li .location {
+    display: none;
+}
