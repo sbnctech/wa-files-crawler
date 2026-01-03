@@ -1,6 +1,37 @@
 # WA Files Crawler
 
-A tool to discover and catalog files stored in Wild Apricot's `/resources/` directory.
+Tools to discover, backup, and analyze files stored in Wild Apricot's `/resources/` directory.
+
+## Tools Included
+
+| Tool | Purpose |
+|------|---------|
+| `wa-files-crawler.ts` | Discover files by crawling WA pages |
+| `webdav-crawler.ts` | Download all files via WebDAV |
+| `backup-incremental.ts` | Nightly incremental backup |
+| `analyze-files.ts` | Generate cleanup recommendations |
+
+## Quick Start
+
+```bash
+# Install dependencies
+npm install
+
+# Download all files via WebDAV (one-time full backup)
+WA_PASSWORD=xxx npx tsx webdav-crawler.ts
+
+# Run incremental backup (only new/modified files)
+WA_PASSWORD=xxx npx tsx backup-incremental.ts
+
+# Analyze downloaded files for cleanup opportunities
+npx tsx analyze-files.ts
+```
+
+## Nightly Backup (Cron)
+
+See [DEPLOYMENT.md](DEPLOYMENT.md) for instructions to set up nightly incremental backups on mail.sbnewcomers.org.
+
+---
 
 ## Problem
 

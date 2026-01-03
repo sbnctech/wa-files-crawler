@@ -17,6 +17,14 @@ wa-files-admin.png
 # Credentials
 cookies.txt
 *.cookies
+.wa-password
+
+# Backup directories
+backups/
+logs/
+backup-manifest.json
+backup-report-*.md
+webdav-crawl-stats.json
 
 # OS
 .DS_Store
