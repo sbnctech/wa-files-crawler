@@ -4,6 +4,15 @@ node_modules/
 # Output (kept in repo as backup of WA files)
 # wa-files-report-*.json
 # downloads/
+downloads-webdav/
+
+# Temporary/debug files
+wa-admin-*.html
+wa-admin-*.png
+wa-admin-*.json
+wa-auto-crawl.json
+wa-frame-content.html
+wa-files-admin.png
 
 # Credentials
 cookies.txt
