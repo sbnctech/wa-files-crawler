@@ -49,7 +49,8 @@ export LOG_FILE
 # Run backup
 echo "=== WA Files Backup Started: $(date) ===" >> "$LOG_FILE"
 
-if npx tsx backup-incremental.ts >> "$LOG_FILE" 2>&1; then
+# Try Python first, fall back to curl
+if WA_PASSWORD=$(cat "$BACKUP_HOME/.wa-password") python3 backup-webdav.py >> "$LOG_FILE" 2>&1; then
     echo "=== Backup completed successfully: $(date) ===" >> "$LOG_FILE"
     EXIT_CODE=0
 else
